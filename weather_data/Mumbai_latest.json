@@ -6,18 +6,18 @@
     "lat": 18.975,
     "lon": 72.826,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1756387481,
-    "localtime": "2025-08-28 18:54"
+    "localtime_epoch": 1756387776,
+    "localtime": "2025-08-28 18:59"
   },
   "current": {
     "last_updated_epoch": 1756386900,
     "last_updated": "2025-08-28 18:45",
     "temp_c": 27.1,
     "temp_f": 80.8,
-    "is_day": 1,
+    "is_day": 0,
     "condition": {
       "text": "Light drizzle",
-      "icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/266.png",
       "code": 1153
     },
     "wind_mph": 3.6,
@@ -53,10 +53,10 @@
       "us-epa-index": 3,
       "gb-defra-index": 8
     },
-    "short_rad": 20.54,
-    "diff_rad": 12.77,
-    "dni": 8.36,
-    "gti": 19.49
+    "short_rad": 0,
+    "diff_rad": 0,
+    "dni": 0,
+    "gti": 0
   },
   "forecast": {
     "forecastday": [
@@ -1087,10 +1087,10 @@
             "time": "2025-08-28 18:00",
             "temp_c": 27.1,
             "temp_f": 80.8,
-            "is_day": 1,
+            "is_day": 0,
             "condition": {
               "text": "Light drizzle",
-              "icon": "//cdn.weatherapi.com/weather/64x64/day/266.png",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/266.png",
               "code": 1153
             },
             "wind_mph": 3.6,
@@ -1120,7 +1120,7 @@
             "vis_miles": 1.0,
             "gust_mph": 5.2,
             "gust_kph": 8.4,
-            "uv": 0.0,
+            "uv": 0,
             "air_quality": {
               "co": 246.05,
               "no2": 7.77,
@@ -1131,10 +1131,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 8
             },
-            "short_rad": 20.54,
-            "diff_rad": 12.77,
-            "dni": 8.36,
-            "gti": 19.49
+            "short_rad": 0,
+            "diff_rad": 0,
+            "dni": 0,
+            "gti": 0
           },
           {
             "time_epoch": 1756387800,
