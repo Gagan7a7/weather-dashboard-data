@@ -6,12 +6,12 @@
     "lat": 12.5242,
     "lon": 76.8958,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1757612021,
-    "localtime": "2025-09-11 23:03"
+    "localtime_epoch": 1757614588,
+    "localtime": "2025-09-11 23:46"
   },
   "current": {
-    "last_updated_epoch": 1757611800,
-    "last_updated": "2025-09-11 23:00",
+    "last_updated_epoch": 1757614500,
+    "last_updated": "2025-09-11 23:45",
     "temp_c": 22.1,
     "temp_f": 71.7,
     "is_day": 0,
