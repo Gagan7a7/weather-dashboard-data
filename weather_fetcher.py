@@ -14,7 +14,7 @@ import subprocess
 # =============================================================================
 
 # Configuration
-API_KEY = "345a560d1ab74c239e3171735251109"
+API_KEY = "a4b5a0077b6a4e408e562112252809"
 BASE_URL = "http://api.weatherapi.com/v1/forecast.json"
 
 # Your 9 cities for the dashboard
@@ -236,6 +236,7 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"\n\n💥 Unexpected error: {e}")
         sys.exit(3)
+
 
 
 
