@@ -6,50 +6,50 @@
     "lat": 13.0006,
     "lon": 76.0994,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1776247890,
-    "localtime": "2026-04-15 15:41"
+    "localtime_epoch": 1776258618,
+    "localtime": "2026-04-15 18:40"
   },
   "current": {
-    "last_updated_epoch": 1776247200,
-    "last_updated": "2026-04-15 15:30",
-    "temp_c": 36.6,
-    "temp_f": 97.9,
-    "is_day": 1,
+    "last_updated_epoch": 1776258000,
+    "last_updated": "2026-04-15 18:30",
+    "temp_c": 25.8,
+    "temp_f": 78.5,
+    "is_day": 0,
     "condition": {
       "text": "Sunny",
-      "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
       "code": 1000
     },
-    "wind_mph": 5.4,
-    "wind_kph": 8.6,
-    "wind_degree": 93,
-    "wind_dir": "E",
-    "pressure_mb": 1005.0,
-    "pressure_in": 29.66,
+    "wind_mph": 18.3,
+    "wind_kph": 29.5,
+    "wind_degree": 254,
+    "wind_dir": "WSW",
+    "pressure_mb": 1008.0,
+    "pressure_in": 29.78,
     "precip_mm": 0.0,
     "precip_in": 0.0,
-    "humidity": 18,
-    "cloud": 4,
-    "feelslike_c": 35.2,
-    "feelslike_f": 95.3,
-    "windchill_c": 36.6,
-    "windchill_f": 97.9,
-    "heatindex_c": 35.2,
-    "heatindex_f": 95.3,
-    "dewpoint_c": 8.8,
-    "dewpoint_f": 47.9,
+    "humidity": 64,
+    "cloud": 5,
+    "feelslike_c": 27.2,
+    "feelslike_f": 81.0,
+    "windchill_c": 25.8,
+    "windchill_f": 78.5,
+    "heatindex_c": 27.2,
+    "heatindex_f": 81.0,
+    "dewpoint_c": 18.4,
+    "dewpoint_f": 65.2,
     "vis_km": 10.0,
     "vis_miles": 6.0,
-    "uv": 4.7,
-    "gust_mph": 6.2,
-    "gust_kph": 9.9,
+    "uv": 0.0,
+    "gust_mph": 22.9,
+    "gust_kph": 36.9,
     "air_quality": {
-      "co": 227.85,
-      "no2": 3.35,
-      "o3": 135.0,
-      "so2": 2.95,
-      "pm2_5": 16.95,
-      "pm10": 21.75,
+      "co": 218.85,
+      "no2": 2.15,
+      "o3": 161.0,
+      "so2": 4.05,
+      "pm2_5": 23.75,
+      "pm10": 33.35,
       "us-epa-index": 2,
       "gb-defra-index": 2
     }
@@ -103,7 +103,7 @@
             "temp_f": 72.3,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -143,7 +143,7 @@
             "temp_f": 71.4,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -183,7 +183,7 @@
             "temp_f": 70.6,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -223,7 +223,7 @@
             "temp_f": 69.9,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -263,7 +263,7 @@
             "temp_f": 69.6,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -303,7 +303,7 @@
             "temp_f": 69.5,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -343,7 +343,7 @@
             "temp_f": 69.3,
             "is_day": 1,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
               "code": 1003
             },
@@ -821,10 +821,10 @@
             "time": "2026-04-15 18:00",
             "temp_c": 25.8,
             "temp_f": 78.5,
-            "is_day": 1,
+            "is_day": 0,
             "condition": {
               "text": "Sunny",
-              "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
             "wind_mph": 18.3,
@@ -854,7 +854,7 @@
             "vis_miles": 6.0,
             "gust_mph": 22.9,
             "gust_kph": 36.9,
-            "uv": 0.0
+            "uv": 0
           },
           {
             "time_epoch": 1776259800,
@@ -863,7 +863,7 @@
             "temp_f": 76.1,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -903,7 +903,7 @@
             "temp_f": 74.6,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -943,7 +943,7 @@
             "temp_f": 73.3,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -983,7 +983,7 @@
             "temp_f": 71.7,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -1023,7 +1023,7 @@
             "temp_f": 70.2,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -1105,7 +1105,7 @@
             "temp_f": 69.8,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -1145,7 +1145,7 @@
             "temp_f": 69.1,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -1185,7 +1185,7 @@
             "temp_f": 68.8,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -1225,7 +1225,7 @@
             "temp_f": 68.6,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -1265,7 +1265,7 @@
             "temp_f": 68.2,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -1305,7 +1305,7 @@
             "temp_f": 67.8,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -1345,7 +1345,7 @@
             "temp_f": 67.6,
             "is_day": 1,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
               "code": 1003
             },
@@ -1945,7 +1945,7 @@
             "temp_f": 79.9,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy ",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -1985,7 +1985,7 @@
             "temp_f": 81.5,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2025,7 +2025,7 @@
             "temp_f": 82.7,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2107,7 +2107,7 @@
             "temp_f": 82.2,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2147,7 +2147,7 @@
             "temp_f": 80.5,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2187,7 +2187,7 @@
             "temp_f": 78.8,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2227,7 +2227,7 @@
             "temp_f": 75.4,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2267,7 +2267,7 @@
             "temp_f": 72.6,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2307,7 +2307,7 @@
             "temp_f": 72.9,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2867,7 +2867,7 @@
             "temp_f": 82.1,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2907,7 +2907,7 @@
             "temp_f": 76.5,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2947,7 +2947,7 @@
             "temp_f": 76.1,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -2987,7 +2987,7 @@
             "temp_f": 74.0,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
@@ -3027,7 +3027,7 @@
             "temp_f": 72.5,
             "is_day": 0,
             "condition": {
-              "text": "Clear ",
+              "text": "Clear",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
               "code": 1000
             },
