@@ -6,56 +6,56 @@
     "lat": 12.9833,
     "lon": 77.5833,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1779487355,
-    "localtime": "2026-05-23 03:32"
+    "localtime_epoch": 1779503368,
+    "localtime": "2026-05-23 07:59"
   },
   "current": {
-    "last_updated_epoch": 1779487200,
-    "last_updated": "2026-05-23 03:30",
+    "last_updated_epoch": 1779502500,
+    "last_updated": "2026-05-23 07:45",
     "temp_c": 23.4,
     "temp_f": 74.1,
-    "is_day": 0,
+    "is_day": 1,
     "condition": {
       "text": "Partly cloudy",
-      "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
       "code": 1003
     },
-    "wind_mph": 12.5,
-    "wind_kph": 20.2,
-    "wind_degree": 286,
-    "wind_dir": "WNW",
-    "pressure_mb": 1014.0,
-    "pressure_in": 29.94,
+    "wind_mph": 11.6,
+    "wind_kph": 18.7,
+    "wind_degree": 277,
+    "wind_dir": "W",
+    "pressure_mb": 1015.0,
+    "pressure_in": 29.97,
     "precip_mm": 0.0,
     "precip_in": 0.0,
     "humidity": 83,
-    "cloud": 50,
-    "feelslike_c": 25.4,
-    "feelslike_f": 77.7,
-    "windchill_c": 22.8,
-    "windchill_f": 73.1,
+    "cloud": 75,
+    "feelslike_c": 25.3,
+    "feelslike_f": 77.6,
+    "windchill_c": 22.9,
+    "windchill_f": 73.3,
     "heatindex_c": 25.0,
-    "heatindex_f": 76.9,
-    "dewpoint_c": 19.5,
-    "dewpoint_f": 67.1,
+    "heatindex_f": 77.0,
+    "dewpoint_c": 18.7,
+    "dewpoint_f": 65.6,
     "vis_km": 6.0,
     "vis_miles": 3.0,
-    "uv": 0.0,
-    "gust_mph": 17.8,
-    "gust_kph": 28.6,
+    "uv": 0.2,
+    "gust_mph": 16.1,
+    "gust_kph": 25.8,
     "will_it_rain": 0,
     "chance_of_rain": 0,
     "will_it_snow": 0,
     "chance_of_snow": 0,
     "air_quality": {
-      "co": 511.85,
-      "no2": 24.85,
-      "o3": 59.0,
-      "so2": 6.25,
-      "pm2_5": 13.95,
-      "pm10": 16.15,
+      "co": 255.85,
+      "no2": 15.65,
+      "o3": 49.0,
+      "so2": 5.35,
+      "pm2_5": 11.25,
+      "pm10": 12.35,
       "us-epa-index": 1,
-      "gb-defra-index": 2
+      "gb-defra-index": 1
     }
   },
   "forecast": {
@@ -88,6 +88,16 @@
             "code": 1003
           },
           "uv": 6.5
+        },
+        "astro": {
+          "sunrise": "05:52 AM",
+          "sunset": "06:40 PM",
+          "moonrise": "11:58 AM",
+          "moonset": "12:01 AM",
+          "moon_phase": "First Quarter",
+          "moon_illumination": 54,
+          "is_moon_up": 0,
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -213,25 +223,25 @@
           {
             "time_epoch": 1779485400,
             "time": "2026-05-23 03:00",
-            "temp_c": 23.4,
-            "temp_f": 74.1,
+            "temp_c": 22.8,
+            "temp_f": 73.1,
             "is_day": 0,
             "condition": {
-              "text": "Partly cloudy",
-              "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
-              "code": 1003
+              "text": "Clear",
+              "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+              "code": 1000
             },
             "wind_mph": 12.5,
             "wind_kph": 20.2,
             "wind_degree": 286,
             "wind_dir": "WNW",
-            "pressure_mb": 1014.0,
-            "pressure_in": 29.94,
+            "pressure_mb": 1011.0,
+            "pressure_in": 29.86,
             "precip_mm": 0.0,
             "precip_in": 0.0,
             "snow_cm": 0.0,
-            "humidity": 83,
-            "cloud": 50,
+            "humidity": 82,
+            "cloud": 13,
             "feelslike_c": 25.0,
             "feelslike_f": 76.9,
             "windchill_c": 22.8,
@@ -244,8 +254,8 @@
             "chance_of_rain": 0,
             "will_it_snow": 0,
             "chance_of_snow": 0,
-            "vis_km": 6.0,
-            "vis_miles": 3.0,
+            "vis_km": 10.0,
+            "vis_miles": 6.0,
             "gust_mph": 17.8,
             "gust_kph": 28.6,
             "uv": 0
@@ -373,25 +383,25 @@
           {
             "time_epoch": 1779499800,
             "time": "2026-05-23 07:00",
-            "temp_c": 22.9,
-            "temp_f": 73.3,
+            "temp_c": 23.4,
+            "temp_f": 74.1,
             "is_day": 1,
             "condition": {
-              "text": "Sunny",
-              "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
-              "code": 1000
+              "text": "Partly cloudy",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+              "code": 1003
             },
             "wind_mph": 11.6,
             "wind_kph": 18.7,
             "wind_degree": 277,
             "wind_dir": "W",
-            "pressure_mb": 1012.0,
-            "pressure_in": 29.89,
+            "pressure_mb": 1015.0,
+            "pressure_in": 29.97,
             "precip_mm": 0.0,
             "precip_in": 0.0,
             "snow_cm": 0.0,
-            "humidity": 77,
-            "cloud": 8,
+            "humidity": 83,
+            "cloud": 75,
             "feelslike_c": 25.0,
             "feelslike_f": 77.0,
             "windchill_c": 22.9,
@@ -404,8 +414,8 @@
             "chance_of_rain": 0,
             "will_it_snow": 0,
             "chance_of_snow": 0,
-            "vis_km": 10.0,
-            "vis_miles": 6.0,
+            "vis_km": 6.0,
+            "vis_miles": 3.0,
             "gust_mph": 16.1,
             "gust_kph": 25.8,
             "uv": 0.2
@@ -1080,6 +1090,16 @@
             "code": 1063
           },
           "uv": 11.1
+        },
+        "astro": {
+          "sunrise": "05:52 AM",
+          "sunset": "06:40 PM",
+          "moonrise": "11:58 AM",
+          "moonset": "12:01 AM",
+          "moon_phase": "First Quarter",
+          "moon_illumination": 54,
+          "is_moon_up": 0,
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -2072,6 +2092,16 @@
             "code": 1195
           },
           "uv": 11.4
+        },
+        "astro": {
+          "sunrise": "05:52 AM",
+          "sunset": "06:40 PM",
+          "moonrise": "11:58 AM",
+          "moonset": "12:01 AM",
+          "moon_phase": "First Quarter",
+          "moon_illumination": 54,
+          "is_moon_up": 0,
+          "is_sun_up": 0
         },
         "hour": [
           {
