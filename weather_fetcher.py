@@ -14,7 +14,7 @@ import subprocess
 # =============================================================================
 
 # Configuration
-API_KEY = "8b133063de8242e690a12451261603"
+API_KEY = "ae118f77b64548eebbb144046260906"
 BASE_URL = "http://api.weatherapi.com/v1/forecast.json"
 
 # Your 9 cities for the dashboard
