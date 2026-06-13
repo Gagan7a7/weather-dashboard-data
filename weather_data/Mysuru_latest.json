@@ -6,8 +6,8 @@
     "lat": 12.3072,
     "lon": 76.6497,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1781348984,
-    "localtime": "2026-06-13 16:39"
+    "localtime_epoch": 1781349566,
+    "localtime": "2026-06-13 16:49"
   },
   "current": {
     "last_updated_epoch": 1781348400,
@@ -110,7 +110,7 @@
           "moonset": "04:48 PM",
           "moon_phase": "New Moon",
           "moon_illumination": 1,
-          "is_moon_up": 1,
+          "is_moon_up": 0,
           "is_sun_up": 1
         },
         "hour": [

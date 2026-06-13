@@ -6,14 +6,14 @@
     "lat": 28.6667,
     "lon": 77.4333,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1781349000,
-    "localtime": "2026-06-13 16:40"
+    "localtime_epoch": 1781349574,
+    "localtime": "2026-06-13 16:49"
   },
   "current": {
     "last_updated_epoch": 1781348400,
     "last_updated": "2026-06-13 16:30",
-    "temp_c": 35.1,
-    "temp_f": 95.2,
+    "temp_c": 35.3,
+    "temp_f": 95.5,
     "is_day": 1,
     "condition": {
       "text": "Sunny",
@@ -30,8 +30,8 @@
     "precip_in": 0.0,
     "humidity": 37,
     "cloud": 25,
-    "feelslike_c": 37.9,
-    "feelslike_f": 100.2,
+    "feelslike_c": 33.5,
+    "feelslike_f": 92.4,
     "windchill_c": 41.6,
     "windchill_f": 107.0,
     "heatindex_c": 42.4,
@@ -981,8 +981,8 @@
           {
             "time_epoch": 1781346600,
             "time": "2026-06-13 16:00",
-            "temp_c": 35.1,
-            "temp_f": 95.2,
+            "temp_c": 35.3,
+            "temp_f": 95.5,
             "is_day": 1,
             "condition": {
               "text": "Sunny",
@@ -15789,7 +15789,7 @@
           "moonset": "02:19 AM",
           "moon_phase": "Waxing Gibbous",
           "moon_illumination": 93,
-          "is_moon_up": 0,
+          "is_moon_up": 1,
           "is_sun_up": 1
         },
         "hour": [
