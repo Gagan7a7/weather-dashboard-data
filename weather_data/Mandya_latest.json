@@ -6,54 +6,54 @@
     "lat": 12.5242,
     "lon": 76.8958,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1783105704,
-    "localtime": "2026-07-04 00:38"
+    "localtime_epoch": 1783115979,
+    "localtime": "2026-07-04 03:29"
   },
   "current": {
-    "last_updated_epoch": 1783105200,
-    "last_updated": "2026-07-04 00:30",
+    "last_updated_epoch": 1783115100,
+    "last_updated": "2026-07-04 03:15",
     "temp_c": 21.9,
-    "temp_f": 71.4,
+    "temp_f": 71.5,
     "is_day": 0,
     "condition": {
       "text": "Patchy rain nearby",
       "icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
       "code": 1063
     },
-    "wind_mph": 12.1,
-    "wind_kph": 19.4,
-    "wind_degree": 242,
+    "wind_mph": 14.3,
+    "wind_kph": 23.0,
+    "wind_degree": 245,
     "wind_dir": "WSW",
-    "pressure_mb": 1010.0,
-    "pressure_in": 29.84,
+    "pressure_mb": 1009.0,
+    "pressure_in": 29.81,
     "precip_mm": 0.02,
     "precip_in": 0.0,
-    "humidity": 86,
-    "cloud": 97,
-    "feelslike_c": 14.1,
-    "feelslike_f": 57.4,
+    "humidity": 85,
+    "cloud": 96,
+    "feelslike_c": 13.5,
+    "feelslike_f": 56.3,
     "windchill_c": 21.9,
-    "windchill_f": 71.4,
-    "heatindex_c": 24.4,
-    "heatindex_f": 76.0,
-    "dewpoint_c": 19.4,
-    "dewpoint_f": 67.0,
+    "windchill_f": 71.5,
+    "heatindex_c": 24.5,
+    "heatindex_f": 76.1,
+    "dewpoint_c": 19.2,
+    "dewpoint_f": 66.7,
     "vis_km": 10.0,
     "vis_miles": 6.0,
     "uv": 0.0,
-    "gust_mph": 15.6,
-    "gust_kph": 25.2,
+    "gust_mph": 18.8,
+    "gust_kph": 30.3,
     "will_it_rain": 0,
-    "chance_of_rain": 29,
+    "chance_of_rain": 27,
     "will_it_snow": 0,
     "chance_of_snow": 0,
     "air_quality": {
-      "co": 118.0,
-      "no2": 3.4,
-      "o3": 45.0,
-      "so2": 1.1,
-      "pm2_5": 1.3,
-      "pm10": 1.5,
+      "co": 101.0,
+      "no2": 2.3,
+      "o3": 46.0,
+      "so2": 1.0,
+      "pm2_5": 0.9,
+      "pm10": 1.0,
       "us-epa-index": 1,
       "gb-defra-index": 1
     },
@@ -487,10 +487,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 2.18,
-            "diff_rad": 1.23,
+            "short_rad": 2.26,
+            "diff_rad": 1.27,
             "dni": 0.0,
-            "gti": 0.0
+            "gti": 2.24
           },
           {
             "time_epoch": 1783128600,
@@ -541,10 +541,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 29.1,
-            "diff_rad": 16.16,
+            "short_rad": 4.76,
+            "diff_rad": 3.18,
             "dni": 0.0,
-            "gti": 0.0
+            "gti": 4.71
           },
           {
             "time_epoch": 1783132200,
@@ -595,10 +595,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 103.18,
-            "diff_rad": 56.36,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 14.32,
+            "diff_rad": 9.55,
+            "dni": 0.02,
+            "gti": 14.18
           },
           {
             "time_epoch": 1783135800,
@@ -649,10 +649,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 154.86,
-            "diff_rad": 86.5,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 57.95,
+            "diff_rad": 35.37,
+            "dni": 0.25,
+            "gti": 57.41
           },
           {
             "time_epoch": 1783139400,
@@ -703,10 +703,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 219.12,
-            "diff_rad": 122.22,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 126.59,
+            "diff_rad": 72.36,
+            "dni": 1.19,
+            "gti": 125.42
           },
           {
             "time_epoch": 1783143000,
@@ -757,10 +757,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 240.16,
-            "diff_rad": 136.22,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 188.02,
+            "diff_rad": 106.36,
+            "dni": 2.63,
+            "gti": 186.3
           },
           {
             "time_epoch": 1783146600,
@@ -811,10 +811,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 408.34,
-            "diff_rad": 240.69,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 400.14,
+            "diff_rad": 233.98,
+            "dni": 26.78,
+            "gti": 397.11
           },
           {
             "time_epoch": 1783150200,
@@ -865,10 +865,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 440.48,
-            "diff_rad": 255.68,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 339.72,
+            "diff_rad": 201.94,
+            "dni": 11.99,
+            "gti": 336.84
           },
           {
             "time_epoch": 1783153800,
@@ -919,10 +919,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 374.96,
-            "diff_rad": 219.62,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 327.88,
+            "diff_rad": 195.02,
+            "dni": 10.23,
+            "gti": 325.06
           },
           {
             "time_epoch": 1783157400,
@@ -973,10 +973,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 345.44,
-            "diff_rad": 202.54,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 303.58,
+            "diff_rad": 180.7,
+            "dni": 7.55,
+            "gti": 300.91
           },
           {
             "time_epoch": 1783161000,
@@ -1027,10 +1027,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 335.02,
-            "diff_rad": 195.3,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 290.58,
+            "diff_rad": 172.35,
+            "dni": 6.56,
+            "gti": 288.01
           },
           {
             "time_epoch": 1783164600,
@@ -1081,10 +1081,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 310.58,
-            "diff_rad": 180.46,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 263.9,
+            "diff_rad": 156.24,
+            "dni": 5.19,
+            "gti": 261.54
           },
           {
             "time_epoch": 1783168200,
@@ -1135,10 +1135,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 79.5,
-            "diff_rad": 42.59,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 55.22,
+            "diff_rad": 31.38,
+            "dni": 0.23,
+            "gti": 54.7
           },
           {
             "time_epoch": 1783171800,
@@ -1835,10 +1835,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 7.82,
-            "diff_rad": 3.87,
+            "short_rad": 6.1,
+            "diff_rad": 3.15,
             "dni": 0.0,
-            "gti": 0.0
+            "gti": 6.04
           },
           {
             "time_epoch": 1783215000,
@@ -1889,10 +1889,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 67.46,
-            "diff_rad": 32.27,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 47.64,
+            "diff_rad": 26.01,
+            "dni": 0.17,
+            "gti": 47.19
           },
           {
             "time_epoch": 1783218600,
@@ -1943,10 +1943,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 148.86,
-            "diff_rad": 72.28,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 110.74,
+            "diff_rad": 60.74,
+            "dni": 0.91,
+            "gti": 109.71
           },
           {
             "time_epoch": 1783222200,
@@ -1997,10 +1997,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 243.36,
-            "diff_rad": 109.79,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 208.27,
+            "diff_rad": 104.26,
+            "dni": 3.23,
+            "gti": 206.38
           },
           {
             "time_epoch": 1783225800,
@@ -2051,10 +2051,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 341.39,
-            "diff_rad": 136.58,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 320.54,
+            "diff_rad": 116.02,
+            "dni": 9.3,
+            "gti": 317.76
           },
           {
             "time_epoch": 1783229400,
@@ -2105,10 +2105,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 432.51,
-            "diff_rad": 149.82,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 405.2,
+            "diff_rad": 149.62,
+            "dni": 28.54,
+            "gti": 402.17
           },
           {
             "time_epoch": 1783233000,
@@ -2159,10 +2159,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 876.08,
-            "diff_rad": 354.16,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 924.7,
+            "diff_rad": 296.42,
+            "dni": 772.75,
+            "gti": 938.4
           },
           {
             "time_epoch": 1783236600,
@@ -2213,10 +2213,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 877.64,
-            "diff_rad": 351.25,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 934.34,
+            "diff_rad": 270.69,
+            "dni": 788.79,
+            "gti": 948.42
           },
           {
             "time_epoch": 1783240200,
@@ -2267,10 +2267,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 854.78,
-            "diff_rad": 341.34,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 914.6,
+            "diff_rad": 249.39,
+            "dni": 755.22,
+            "gti": 927.89
           },
           {
             "time_epoch": 1783243800,
@@ -2321,10 +2321,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 806.12,
-            "diff_rad": 327.71,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 877.7,
+            "diff_rad": 212.12,
+            "dni": 686.28,
+            "gti": 889.33
           },
           {
             "time_epoch": 1783247400,
@@ -2375,10 +2375,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 743.52,
-            "diff_rad": 305.57,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 783.58,
+            "diff_rad": 194.5,
+            "dni": 495.4,
+            "gti": 790.55
           },
           {
             "time_epoch": 1783251000,
@@ -2429,10 +2429,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 666.82,
-            "diff_rad": 277.78,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 692.1,
+            "diff_rad": 178.89,
+            "dni": 321.5,
+            "gti": 694.87
           },
           {
             "time_epoch": 1783254600,
@@ -2483,10 +2483,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 91.66,
-            "diff_rad": 48.07,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 113.4,
+            "diff_rad": 52.19,
+            "dni": 0.96,
+            "gti": 112.35
           },
           {
             "time_epoch": 1783258200,
@@ -3183,10 +3183,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 7.6,
-            "diff_rad": 3.74,
+            "short_rad": 7.78,
+            "diff_rad": 3.93,
             "dni": 0.0,
-            "gti": 0.0
+            "gti": 7.71
           },
           {
             "time_epoch": 1783301400,
@@ -3237,10 +3237,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 50.5,
-            "diff_rad": 26.65,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 77.84,
+            "diff_rad": 27.01,
+            "dni": 0.45,
+            "gti": 77.11
           },
           {
             "time_epoch": 1783305000,
@@ -3291,10 +3291,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 136.16,
-            "diff_rad": 67.02,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 171.3,
+            "diff_rad": 55.58,
+            "dni": 2.19,
+            "gti": 169.73
           },
           {
             "time_epoch": 1783308600,
@@ -3345,10 +3345,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 235.38,
-            "diff_rad": 102.7,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 233.04,
+            "diff_rad": 83.39,
+            "dni": 4.05,
+            "gti": 230.94
           },
           {
             "time_epoch": 1783312200,
@@ -3399,10 +3399,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 326.03,
-            "diff_rad": 135.57,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 269.74,
+            "diff_rad": 110.81,
+            "dni": 5.42,
+            "gti": 267.33
           },
           {
             "time_epoch": 1783315800,
@@ -3453,10 +3453,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 400.7,
-            "diff_rad": 168.21,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 291.31,
+            "diff_rad": 131.01,
+            "dni": 6.61,
+            "gti": 288.73
           },
           {
             "time_epoch": 1783319400,
@@ -3507,10 +3507,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 669.2,
-            "diff_rad": 356.19,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 439.4,
+            "diff_rad": 249.76,
+            "dni": 42.9,
+            "gti": 436.47
           },
           {
             "time_epoch": 1783323000,
@@ -3561,10 +3561,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 581.44,
-            "diff_rad": 313.12,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 407.94,
+            "diff_rad": 233.58,
+            "dni": 29.53,
+            "gti": 404.92
           },
           {
             "time_epoch": 1783326600,
@@ -3615,10 +3615,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 503.78,
-            "diff_rad": 276.08,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 480.84,
+            "diff_rad": 252.48,
+            "dni": 66.75,
+            "gti": 478.21
           },
           {
             "time_epoch": 1783330200,
@@ -3669,10 +3669,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 480.18,
-            "diff_rad": 261.9,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 502.76,
+            "diff_rad": 246.19,
+            "dni": 82.53,
+            "gti": 500.38
           },
           {
             "time_epoch": 1783333800,
@@ -3723,10 +3723,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 466.24,
-            "diff_rad": 246.22,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 467.56,
+            "diff_rad": 224.96,
+            "dni": 58.28,
+            "gti": 464.81
           },
           {
             "time_epoch": 1783337400,
@@ -3777,10 +3777,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 428.78,
-            "diff_rad": 225.42,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 436.26,
+            "diff_rad": 204.16,
+            "dni": 41.39,
+            "gti": 433.31
           },
           {
             "time_epoch": 1783341000,
@@ -3831,10 +3831,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 99.46,
-            "diff_rad": 51.51,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 118.56,
+            "diff_rad": 44.9,
+            "dni": 1.05,
+            "gti": 117.46
           },
           {
             "time_epoch": 1783344600,
@@ -4531,10 +4531,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 7.64,
-            "diff_rad": 3.83,
+            "short_rad": 7.56,
+            "diff_rad": 3.84,
             "dni": 0.0,
-            "gti": 0.0
+            "gti": 7.49
           },
           {
             "time_epoch": 1783387800,
@@ -4585,10 +4585,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 65.84,
-            "diff_rad": 31.02,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 76.34,
+            "diff_rad": 27.5,
+            "dni": 0.43,
+            "gti": 75.63
           },
           {
             "time_epoch": 1783391400,
@@ -4639,10 +4639,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 130.48,
-            "diff_rad": 54.81,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 175.2,
+            "diff_rad": 46.41,
+            "dni": 2.29,
+            "gti": 173.6
           },
           {
             "time_epoch": 1783395000,
@@ -4693,10 +4693,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 213.84,
-            "diff_rad": 80.86,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 270.46,
+            "diff_rad": 74.62,
+            "dni": 5.45,
+            "gti": 268.05
           },
           {
             "time_epoch": 1783398600,
@@ -4747,10 +4747,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 297.23,
-            "diff_rad": 110.52,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 345.15,
+            "diff_rad": 105.1,
+            "dni": 12.9,
+            "gti": 342.24
           },
           {
             "time_epoch": 1783402200,
@@ -4773,7 +4773,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 48,
-            "cloud": 85,
+            "cloud": 81,
             "feelslike_c": 29.5,
             "feelslike_f": 85.1,
             "windchill_c": 29.1,
@@ -4783,7 +4783,7 @@
             "dewpoint_c": 17.0,
             "dewpoint_f": 62.6,
             "will_it_rain": 0,
-            "chance_of_rain": 22,
+            "chance_of_rain": 21,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 5.0,
@@ -4801,10 +4801,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 357.78,
-            "diff_rad": 135.28,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 430.32,
+            "diff_rad": 127.78,
+            "dni": 38.65,
+            "gti": 427.35
           },
           {
             "time_epoch": 1783405800,
@@ -4827,7 +4827,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 49,
-            "cloud": 81,
+            "cloud": 88,
             "feelslike_c": 29.1,
             "feelslike_f": 84.4,
             "windchill_c": 28.6,
@@ -4855,10 +4855,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 439.08,
-            "diff_rad": 229.54,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 735.78,
+            "diff_rad": 291.44,
+            "dni": 401.19,
+            "gti": 740.46
           },
           {
             "time_epoch": 1783409400,
@@ -4909,10 +4909,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 472.86,
-            "diff_rad": 259.17,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 689.88,
+            "diff_rad": 293.63,
+            "dni": 317.66,
+            "gti": 692.56
           },
           {
             "time_epoch": 1783413000,
@@ -4963,10 +4963,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 409.56,
-            "diff_rad": 228.19,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 553.7,
+            "diff_rad": 251.87,
+            "dni": 128.45,
+            "gti": 552.17
           },
           {
             "time_epoch": 1783416600,
@@ -5017,10 +5017,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 366.26,
-            "diff_rad": 205.99,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 480.62,
+            "diff_rad": 226.65,
+            "dni": 66.6,
+            "gti": 477.98
           },
           {
             "time_epoch": 1783420200,
@@ -5071,10 +5071,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 345.84,
-            "diff_rad": 194.62,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 443.92,
+            "diff_rad": 213.14,
+            "dni": 45.14,
+            "gti": 441.01
           },
           {
             "time_epoch": 1783423800,
@@ -5125,10 +5125,10 @@
               "us-epa-index": 1,
               "gb-defra-index": 1
             },
-            "short_rad": 342.13,
-            "diff_rad": 178.48,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 397.7,
+            "diff_rad": 192.06,
+            "dni": 25.96,
+            "gti": 394.67
           },
           {
             "time_epoch": 1783427400,
@@ -5170,10 +5170,10 @@
             "gust_kph": 40.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 131.54,
-            "diff_rad": 41.25,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 131.26,
+            "diff_rad": 41.49,
+            "dni": 1.28,
+            "gti": 130.05
           },
           {
             "time_epoch": 1783431000,
@@ -5755,10 +5755,10 @@
             "gust_kph": 25.7,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 6.72,
-            "diff_rad": 3.33,
+            "short_rad": 6.64,
+            "diff_rad": 3.29,
             "dni": 0.0,
-            "gti": 0.0
+            "gti": 6.58
           },
           {
             "time_epoch": 1783474200,
@@ -5800,10 +5800,10 @@
             "gust_kph": 26.9,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 58.14,
-            "diff_rad": 30.23,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 59.8,
+            "diff_rad": 30.34,
+            "dni": 0.27,
+            "gti": 59.24
           },
           {
             "time_epoch": 1783477800,
@@ -5845,10 +5845,10 @@
             "gust_kph": 32.3,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 145.28,
-            "diff_rad": 67.87,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 131.66,
+            "diff_rad": 67.74,
+            "dni": 1.29,
+            "gti": 130.45
           },
           {
             "time_epoch": 1783481400,
@@ -5890,10 +5890,10 @@
             "gust_kph": 36.4,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 233.86,
-            "diff_rad": 105.58,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 211.33,
+            "diff_rad": 108.1,
+            "dni": 3.33,
+            "gti": 209.41
           },
           {
             "time_epoch": 1783485000,
@@ -5935,10 +5935,10 @@
             "gust_kph": 39.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 301.98,
-            "diff_rad": 136.97,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 273.18,
+            "diff_rad": 141.59,
+            "dni": 5.56,
+            "gti": 270.75
           },
           {
             "time_epoch": 1783488600,
@@ -5980,10 +5980,10 @@
             "gust_kph": 42.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 371.5,
-            "diff_rad": 163.23,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 331.94,
+            "diff_rad": 171.22,
+            "dni": 10.8,
+            "gti": 329.09
           },
           {
             "time_epoch": 1783492200,
@@ -6025,10 +6025,10 @@
             "gust_kph": 42.1,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 366.39,
-            "diff_rad": 186.42,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 663.68,
+            "diff_rad": 329.73,
+            "dni": 273.98,
+            "gti": 665.34
           },
           {
             "time_epoch": 1783495800,
@@ -6070,10 +6070,10 @@
             "gust_kph": 42.1,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 363.84,
-            "diff_rad": 198.01,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 581.56,
+            "diff_rad": 302.4,
+            "dni": 159.28,
+            "gti": 580.66
           },
           {
             "time_epoch": 1783499400,
@@ -6115,10 +6115,10 @@
             "gust_kph": 41.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 361.28,
-            "diff_rad": 209.6,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 517.56,
+            "diff_rad": 275.47,
+            "dni": 94.52,
+            "gti": 515.39
           },
           {
             "time_epoch": 1783503000,
@@ -6160,10 +6160,10 @@
             "gust_kph": 40.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 311.4,
-            "diff_rad": 181.22,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 450.1,
+            "diff_rad": 242.75,
+            "dni": 48.35,
+            "gti": 447.22
           },
           {
             "time_epoch": 1783506600,
@@ -6205,10 +6205,10 @@
             "gust_kph": 38.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 286.46,
-            "diff_rad": 167.04,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 403.54,
+            "diff_rad": 218.47,
+            "dni": 27.95,
+            "gti": 400.51
           },
           {
             "time_epoch": 1783510200,
@@ -6250,10 +6250,10 @@
             "gust_kph": 37.5,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 261.52,
-            "diff_rad": 152.85,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 366.98,
+            "diff_rad": 198.78,
+            "dni": 17.35,
+            "gti": 363.99
           },
           {
             "time_epoch": 1783513800,
@@ -6295,10 +6295,10 @@
             "gust_kph": 35.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 137.39,
-            "diff_rad": 80.24,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 197.4,
+            "diff_rad": 106.81,
+            "dni": 8.7,
+            "gti": 195.77
           },
           {
             "time_epoch": 1783517400,
@@ -6566,7 +6566,7 @@
           "moonset": "01:33 PM",
           "moon_phase": "Waning Crescent",
           "moon_illumination": 19,
-          "is_moon_up": 0,
+          "is_moon_up": 1,
           "is_sun_up": 0
         },
         "hour": [
@@ -6880,10 +6880,10 @@
             "gust_kph": 25.6,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 16.33,
-            "diff_rad": 9.85,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 76.4,
+            "diff_rad": 32.79,
+            "dni": 0.87,
+            "gti": 75.7
           },
           {
             "time_epoch": 1783560600,
@@ -6925,10 +6925,10 @@
             "gust_kph": 26.6,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 24.49,
-            "diff_rad": 14.77,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 114.6,
+            "diff_rad": 49.19,
+            "dni": 1.31,
+            "gti": 113.55
           },
           {
             "time_epoch": 1783564200,
@@ -6970,10 +6970,10 @@
             "gust_kph": 27.8,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 32.66,
-            "diff_rad": 19.7,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 152.8,
+            "diff_rad": 65.58,
+            "dni": 1.74,
+            "gti": 151.4
           },
           {
             "time_epoch": 1783567800,
@@ -7015,10 +7015,10 @@
             "gust_kph": 29.2,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 70.06,
-            "diff_rad": 42.27,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 246.98,
+            "diff_rad": 105.05,
+            "dni": 6.98,
+            "gti": 244.83
           },
           {
             "time_epoch": 1783571400,
@@ -7060,10 +7060,10 @@
             "gust_kph": 31.0,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 88.76,
-            "diff_rad": 53.56,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 294.06,
+            "diff_rad": 124.79,
+            "dni": 9.6,
+            "gti": 291.55
           },
           {
             "time_epoch": 1783575000,
@@ -7105,10 +7105,10 @@
             "gust_kph": 32.3,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 107.46,
-            "diff_rad": 64.85,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 341.15,
+            "diff_rad": 144.52,
+            "dni": 12.22,
+            "gti": 338.26
           },
           {
             "time_epoch": 1783578600,
@@ -7150,10 +7150,10 @@
             "gust_kph": 31.7,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 136.03,
-            "diff_rad": 84.59,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 372.21,
+            "diff_rad": 179.94,
+            "dni": 20.03,
+            "gti": 369.24
           },
           {
             "time_epoch": 1783582200,
@@ -7195,10 +7195,10 @@
             "gust_kph": 31.0,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 150.31,
-            "diff_rad": 94.46,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 387.73,
+            "diff_rad": 197.65,
+            "dni": 23.94,
+            "gti": 384.74
           },
           {
             "time_epoch": 1783585800,
@@ -7240,10 +7240,10 @@
             "gust_kph": 30.2,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 164.6,
-            "diff_rad": 104.34,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 403.26,
+            "diff_rad": 215.36,
+            "dni": 27.85,
+            "gti": 400.23
           },
           {
             "time_epoch": 1783589400,
@@ -7285,10 +7285,10 @@
             "gust_kph": 29.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 180.03,
-            "diff_rad": 109.36,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 336.97,
+            "diff_rad": 182.32,
+            "dni": 16.66,
+            "gti": 334.24
           },
           {
             "time_epoch": 1783593000,
@@ -7330,10 +7330,10 @@
             "gust_kph": 29.9,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 187.74,
-            "diff_rad": 111.88,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 303.82,
+            "diff_rad": 165.79,
+            "dni": 11.06,
+            "gti": 301.24
           },
           {
             "time_epoch": 1783596600,
@@ -7375,10 +7375,10 @@
             "gust_kph": 29.5,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 195.46,
-            "diff_rad": 114.39,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 270.67,
+            "diff_rad": 149.27,
+            "dni": 5.46,
+            "gti": 268.25
           },
           {
             "time_epoch": 1783600200,
@@ -7420,10 +7420,10 @@
             "gust_kph": 26.6,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 103.34,
-            "diff_rad": 60.34,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 143.02,
+            "diff_rad": 78.88,
+            "dni": 2.74,
+            "gti": 141.73
           },
           {
             "time_epoch": 1783603800,
@@ -7691,7 +7691,7 @@
           "moonset": "02:30 PM",
           "moon_phase": "Waning Crescent",
           "moon_illumination": 12,
-          "is_moon_up": 0,
+          "is_moon_up": 1,
           "is_sun_up": 0
         },
         "hour": [
@@ -8005,10 +8005,10 @@
             "gust_kph": 25.9,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 32.57,
-            "diff_rad": 17.47,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 62.74,
+            "diff_rad": 30.27,
+            "dni": 0.58,
+            "gti": 62.17
           },
           {
             "time_epoch": 1783647000,
@@ -8050,10 +8050,10 @@
             "gust_kph": 26.3,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 48.85,
-            "diff_rad": 26.21,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 94.12,
+            "diff_rad": 45.41,
+            "dni": 0.88,
+            "gti": 93.25
           },
           {
             "time_epoch": 1783650600,
@@ -8095,10 +8095,10 @@
             "gust_kph": 26.7,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 65.14,
-            "diff_rad": 34.94,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 125.49,
+            "diff_rad": 60.54,
+            "dni": 1.17,
+            "gti": 124.33
           },
           {
             "time_epoch": 1783654200,
@@ -8140,10 +8140,10 @@
             "gust_kph": 27.7,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 209.46,
-            "diff_rad": 86.12,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 213.77,
+            "diff_rad": 102.37,
+            "dni": 4.3,
+            "gti": 211.86
           },
           {
             "time_epoch": 1783657800,
@@ -8185,10 +8185,10 @@
             "gust_kph": 28.4,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 281.63,
-            "diff_rad": 111.71,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 257.91,
+            "diff_rad": 123.29,
+            "dni": 5.86,
+            "gti": 255.63
           },
           {
             "time_epoch": 1783661400,
@@ -8230,10 +8230,10 @@
             "gust_kph": 29.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 353.79,
-            "diff_rad": 137.3,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 302.05,
+            "diff_rad": 144.2,
+            "dni": 7.42,
+            "gti": 299.39
           },
           {
             "time_epoch": 1783665000,
@@ -8275,10 +8275,10 @@
             "gust_kph": 31.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 655.48,
-            "diff_rad": 121.65,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 328.22,
+            "diff_rad": 175.17,
+            "dni": 11.02,
+            "gti": 325.42
           },
           {
             "time_epoch": 1783668600,
@@ -8320,10 +8320,10 @@
             "gust_kph": 32.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 806.32,
-            "diff_rad": 113.83,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 341.31,
+            "diff_rad": 190.66,
+            "dni": 12.83,
+            "gti": 338.43
           },
           {
             "time_epoch": 1783672200,
@@ -8365,10 +8365,10 @@
             "gust_kph": 33.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 957.16,
-            "diff_rad": 106.0,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 354.4,
+            "diff_rad": 206.14,
+            "dni": 14.63,
+            "gti": 351.45
           },
           {
             "time_epoch": 1783675800,
@@ -8410,10 +8410,10 @@
             "gust_kph": 32.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 807.33,
-            "diff_rad": 116.31,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 308.65,
+            "diff_rad": 179.43,
+            "dni": 9.89,
+            "gti": 305.99
           },
           {
             "time_epoch": 1783679400,
@@ -8455,10 +8455,10 @@
             "gust_kph": 30.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 732.42,
-            "diff_rad": 121.47,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 285.77,
+            "diff_rad": 166.07,
+            "dni": 7.52,
+            "gti": 283.27
           },
           {
             "time_epoch": 1783683000,
@@ -8500,10 +8500,10 @@
             "gust_kph": 29.1,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 657.5,
-            "diff_rad": 126.62,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 262.9,
+            "diff_rad": 152.71,
+            "dni": 5.15,
+            "gti": 260.54
           },
           {
             "time_epoch": 1783686600,
@@ -8545,10 +8545,10 @@
             "gust_kph": 28.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 333.4,
-            "diff_rad": 66.08,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 140.86,
+            "diff_rad": 81.3,
+            "dni": 2.59,
+            "gti": 139.59
           },
           {
             "time_epoch": 1783690200,
@@ -8816,7 +8816,7 @@
           "moonset": "03:32 PM",
           "moon_phase": "Waning Crescent",
           "moon_illumination": 6,
-          "is_moon_up": 0,
+          "is_moon_up": 1,
           "is_sun_up": 0
         },
         "hour": [
@@ -9130,10 +9130,10 @@
             "gust_kph": 23.8,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 79.82,
-            "diff_rad": 29.13,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 62.63,
+            "diff_rad": 32.57,
+            "dni": 0.58,
+            "gti": 62.06
           },
           {
             "time_epoch": 1783733400,
@@ -9175,10 +9175,10 @@
             "gust_kph": 25.2,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 119.72,
-            "diff_rad": 43.7,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 93.95,
+            "diff_rad": 48.85,
+            "dni": 0.88,
+            "gti": 93.08
           },
           {
             "time_epoch": 1783737000,
@@ -9220,10 +9220,10 @@
             "gust_kph": 26.5,
             "uv": 5.0,
             "air_quality": {},
-            "short_rad": 159.63,
-            "diff_rad": 58.26,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 125.26,
+            "diff_rad": 65.14,
+            "dni": 1.17,
+            "gti": 124.11
           },
           {
             "time_epoch": 1783740600,
@@ -9265,10 +9265,10 @@
             "gust_kph": 26.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 295.94,
-            "diff_rad": 96.55,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 247.35,
+            "diff_rad": 120.66,
+            "dni": 9.55,
+            "gti": 245.28
           },
           {
             "time_epoch": 1783744200,
@@ -9310,10 +9310,10 @@
             "gust_kph": 26.6,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 364.09,
-            "diff_rad": 115.7,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 308.4,
+            "diff_rad": 148.42,
+            "dni": 13.74,
+            "gti": 305.87
           },
           {
             "time_epoch": 1783747800,
@@ -9355,10 +9355,10 @@
             "gust_kph": 26.5,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 432.24,
-            "diff_rad": 134.84,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 369.44,
+            "diff_rad": 176.18,
+            "dni": 17.93,
+            "gti": 366.45
           },
           {
             "time_epoch": 1783751400,
@@ -9400,10 +9400,10 @@
             "gust_kph": 29.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 676.25,
-            "diff_rad": 179.71,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 638.52,
+            "diff_rad": 220.15,
+            "dni": 380.31,
+            "gti": 643.52
           },
           {
             "time_epoch": 1783755000,
@@ -9445,10 +9445,10 @@
             "gust_kph": 31.3,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 798.26,
-            "diff_rad": 202.14,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 773.06,
+            "diff_rad": 242.14,
+            "dni": 561.5,
+            "gti": 782.06
           },
           {
             "time_epoch": 1783758600,
@@ -9490,10 +9490,10 @@
             "gust_kph": 33.9,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 920.26,
-            "diff_rad": 224.58,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 907.6,
+            "diff_rad": 264.13,
+            "dni": 742.69,
+            "gti": 920.59
           },
           {
             "time_epoch": 1783762200,
@@ -9535,10 +9535,10 @@
             "gust_kph": 33.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 825.95,
-            "diff_rad": 207.02,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 808.66,
+            "diff_rad": 247.99,
+            "dni": 547.71,
+            "gti": 816.91
           },
           {
             "time_epoch": 1783765800,
@@ -9580,10 +9580,10 @@
             "gust_kph": 33.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 778.79,
-            "diff_rad": 198.25,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 759.18,
+            "diff_rad": 239.92,
+            "dni": 450.23,
+            "gti": 765.07
           },
           {
             "time_epoch": 1783769400,
@@ -9625,10 +9625,10 @@
             "gust_kph": 33.9,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 731.63,
-            "diff_rad": 189.47,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 709.71,
+            "diff_rad": 231.85,
+            "dni": 352.74,
+            "gti": 713.23
           },
           {
             "time_epoch": 1783773000,
@@ -9670,10 +9670,10 @@
             "gust_kph": 33.1,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 389.12,
-            "diff_rad": 101.78,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 371.25,
+            "diff_rad": 124.52,
+            "dni": 176.41,
+            "gti": 372.85
           },
           {
             "time_epoch": 1783776600,
@@ -9941,7 +9941,7 @@
           "moonset": "04:37 PM",
           "moon_phase": "New Moon",
           "moon_illumination": 2,
-          "is_moon_up": 0,
+          "is_moon_up": 1,
           "is_sun_up": 0
         },
         "hour": [
@@ -10255,10 +10255,10 @@
             "gust_kph": 23.8,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 67.92,
-            "diff_rad": 33.92,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 63.79,
+            "diff_rad": 32.59,
+            "dni": 0.61,
+            "gti": 63.2
           },
           {
             "time_epoch": 1783819800,
@@ -10300,10 +10300,10 @@
             "gust_kph": 25.6,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 101.88,
-            "diff_rad": 50.88,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 95.69,
+            "diff_rad": 48.89,
+            "dni": 0.91,
+            "gti": 94.8
           },
           {
             "time_epoch": 1783823400,
@@ -10345,10 +10345,10 @@
             "gust_kph": 27.3,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 135.84,
-            "diff_rad": 67.84,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 127.58,
+            "diff_rad": 65.18,
+            "dni": 1.21,
+            "gti": 126.4
           },
           {
             "time_epoch": 1783827000,
@@ -10390,10 +10390,10 @@
             "gust_kph": 28.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 255.98,
-            "diff_rad": 126.02,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 251.62,
+            "diff_rad": 118.9,
+            "dni": 10.35,
+            "gti": 249.53
           },
           {
             "time_epoch": 1783830600,
@@ -10435,10 +10435,10 @@
             "gust_kph": 30.2,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 316.06,
-            "diff_rad": 155.12,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 313.64,
+            "diff_rad": 145.75,
+            "dni": 14.92,
+            "gti": 311.1
           },
           {
             "time_epoch": 1783834200,
@@ -10480,10 +10480,10 @@
             "gust_kph": 31.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 376.13,
-            "diff_rad": 184.21,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 375.66,
+            "diff_rad": 172.61,
+            "dni": 19.49,
+            "gti": 372.66
           },
           {
             "time_epoch": 1783837800,
@@ -10525,10 +10525,10 @@
             "gust_kph": 32.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 587.04,
-            "diff_rad": 269.87,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 537.44,
+            "diff_rad": 254.78,
+            "dni": 176.73,
+            "gti": 537.47
           },
           {
             "time_epoch": 1783841400,
@@ -10570,10 +10570,10 @@
             "gust_kph": 33.1,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 692.5,
-            "diff_rad": 312.7,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 618.33,
+            "diff_rad": 295.86,
+            "dni": 255.35,
+            "gti": 619.88
           },
           {
             "time_epoch": 1783845000,
@@ -10615,10 +10615,10 @@
             "gust_kph": 33.9,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 797.96,
-            "diff_rad": 355.54,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 699.22,
+            "diff_rad": 336.94,
+            "dni": 333.97,
+            "gti": 702.29
           },
           {
             "time_epoch": 1783848600,
@@ -10660,10 +10660,10 @@
             "gust_kph": 34.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 704.44,
-            "diff_rad": 320.43,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 659.13,
+            "diff_rad": 293.86,
+            "dni": 270.62,
+            "gti": 660.73
           },
           {
             "time_epoch": 1783852200,
@@ -10705,10 +10705,10 @@
             "gust_kph": 34.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 657.68,
-            "diff_rad": 302.87,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 639.08,
+            "diff_rad": 272.31,
+            "dni": 238.95,
+            "gti": 639.96
           },
           {
             "time_epoch": 1783855800,
@@ -10750,10 +10750,10 @@
             "gust_kph": 35.2,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 610.92,
-            "diff_rad": 285.32,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 619.04,
+            "diff_rad": 250.77,
+            "dni": 207.28,
+            "gti": 619.18
           },
           {
             "time_epoch": 1783859400,
@@ -10795,10 +10795,10 @@
             "gust_kph": 32.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 320.73,
-            "diff_rad": 150.72,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 333.05,
+            "diff_rad": 132.25,
+            "dni": 103.72,
+            "gti": 332.9
           },
           {
             "time_epoch": 1783863000,
@@ -11380,10 +11380,10 @@
             "gust_kph": 22.0,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 84.31,
-            "diff_rad": 27.34,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 88.74,
+            "diff_rad": 22.19,
+            "dni": 1.17,
+            "gti": 87.93
           },
           {
             "time_epoch": 1783906200,
@@ -11425,10 +11425,10 @@
             "gust_kph": 24.1,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 126.47,
-            "diff_rad": 41.02,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 133.12,
+            "diff_rad": 33.28,
+            "dni": 1.76,
+            "gti": 131.9
           },
           {
             "time_epoch": 1783909800,
@@ -11470,10 +11470,10 @@
             "gust_kph": 26.5,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 168.62,
-            "diff_rad": 54.69,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 177.49,
+            "diff_rad": 44.38,
+            "dni": 2.35,
+            "gti": 175.87
           },
           {
             "time_epoch": 1783913400,
@@ -11515,10 +11515,10 @@
             "gust_kph": 28.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 312.92,
-            "diff_rad": 82.34,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 328.22,
+            "diff_rad": 58.18,
+            "dni": 33.92,
+            "gti": 326.09
           },
           {
             "time_epoch": 1783917000,
@@ -11560,10 +11560,10 @@
             "gust_kph": 31.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 385.07,
-            "diff_rad": 96.17,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 403.59,
+            "diff_rad": 65.08,
+            "dni": 49.71,
+            "gti": 401.2
           },
           {
             "time_epoch": 1783920600,
@@ -11605,10 +11605,10 @@
             "gust_kph": 33.1,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 457.22,
-            "diff_rad": 110.0,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 478.96,
+            "diff_rad": 71.98,
+            "dni": 65.5,
+            "gti": 476.31
           },
           {
             "time_epoch": 1783924200,
@@ -11650,10 +11650,10 @@
             "gust_kph": 34.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 690.1,
-            "diff_rad": 174.77,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 723.92,
+            "diff_rad": 95.6,
+            "dni": 452.51,
+            "gti": 730.2
           },
           {
             "time_epoch": 1783927800,
@@ -11695,10 +11695,10 @@
             "gust_kph": 36.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 806.54,
-            "diff_rad": 207.15,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 846.4,
+            "diff_rad": 107.41,
+            "dni": 646.02,
+            "gti": 857.15
           },
           {
             "time_epoch": 1783931400,
@@ -11740,10 +11740,10 @@
             "gust_kph": 37.7,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 922.98,
-            "diff_rad": 239.54,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 968.88,
+            "diff_rad": 119.22,
+            "dni": 839.52,
+            "gti": 984.1
           },
           {
             "time_epoch": 1783935000,
@@ -11785,10 +11785,10 @@
             "gust_kph": 37.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 818.55,
-            "diff_rad": 229.71,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 864.75,
+            "diff_rad": 127.31,
+            "dni": 644.48,
+            "gti": 875.28
           },
           {
             "time_epoch": 1783938600,
@@ -11830,10 +11830,10 @@
             "gust_kph": 37.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 766.33,
-            "diff_rad": 224.79,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 812.69,
+            "diff_rad": 131.35,
+            "dni": 546.97,
+            "gti": 820.88
           },
           {
             "time_epoch": 1783942200,
@@ -11875,10 +11875,10 @@
             "gust_kph": 37.7,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 714.11,
-            "diff_rad": 219.88,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 760.62,
+            "diff_rad": 135.4,
+            "dni": 449.45,
+            "gti": 766.47
           },
           {
             "time_epoch": 1783945800,
@@ -11920,10 +11920,10 @@
             "gust_kph": 35.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 376.77,
-            "diff_rad": 118.83,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 400.75,
+            "diff_rad": 77.23,
+            "dni": 224.79,
+            "gti": 403.48
           },
           {
             "time_epoch": 1783949400,
@@ -12505,10 +12505,10 @@
             "gust_kph": 19.4,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 79.44,
-            "diff_rad": 30.72,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 65.35,
+            "diff_rad": 33.28,
+            "dni": 0.63,
+            "gti": 64.75
           },
           {
             "time_epoch": 1783992600,
@@ -12550,10 +12550,10 @@
             "gust_kph": 21.6,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 119.16,
-            "diff_rad": 46.08,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 98.03,
+            "diff_rad": 49.91,
+            "dni": 0.95,
+            "gti": 97.12
           },
           {
             "time_epoch": 1783996200,
@@ -12595,10 +12595,10 @@
             "gust_kph": 23.6,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 158.88,
-            "diff_rad": 61.44,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 130.7,
+            "diff_rad": 66.55,
+            "dni": 1.27,
+            "gti": 129.5
           },
           {
             "time_epoch": 1783999800,
@@ -12640,10 +12640,10 @@
             "gust_kph": 26.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 301.1,
-            "diff_rad": 98.34,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 65.35,
+            "diff_rad": 33.28,
+            "dni": 0.63,
+            "gti": 64.75
           },
           {
             "time_epoch": 1784003400,
@@ -12685,10 +12685,10 @@
             "gust_kph": 28.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 372.22,
-            "diff_rad": 116.79,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 32.68,
+            "diff_rad": 16.64,
+            "dni": 0.32,
+            "gti": 32.38
           },
           {
             "time_epoch": 1784007000,
@@ -12730,8 +12730,8 @@
             "gust_kph": 31.5,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 443.33,
-            "diff_rad": 135.24,
+            "short_rad": 0.0,
+            "diff_rad": 0.0,
             "dni": 0.0,
             "gti": 0.0
           },
@@ -12775,10 +12775,10 @@
             "gust_kph": 32.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 684.42,
-            "diff_rad": 182.25,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 362.32,
+            "diff_rad": 137.32,
+            "dni": 190.09,
+            "gti": 364.4
           },
           {
             "time_epoch": 1784014200,
@@ -12820,10 +12820,10 @@
             "gust_kph": 34.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 804.97,
-            "diff_rad": 205.76,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 543.48,
+            "diff_rad": 205.98,
+            "dni": 285.14,
+            "gti": 546.61
           },
           {
             "time_epoch": 1784017800,
@@ -12865,10 +12865,10 @@
             "gust_kph": 35.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 925.52,
-            "diff_rad": 229.26,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 724.64,
+            "diff_rad": 274.64,
+            "dni": 380.18,
+            "gti": 728.81
           },
           {
             "time_epoch": 1784021400,
@@ -12910,10 +12910,10 @@
             "gust_kph": 34.9,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 826.34,
-            "diff_rad": 216.1,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 647.22,
+            "diff_rad": 253.58,
+            "dni": 262.97,
+            "gti": 648.71
           },
           {
             "time_epoch": 1784025000,
@@ -12955,10 +12955,10 @@
             "gust_kph": 34.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 776.76,
-            "diff_rad": 209.52,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 608.5,
+            "diff_rad": 243.05,
+            "dni": 204.36,
+            "gti": 608.66
           },
           {
             "time_epoch": 1784028600,
@@ -13000,10 +13000,10 @@
             "gust_kph": 33.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 727.17,
-            "diff_rad": 202.94,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 569.79,
+            "diff_rad": 232.52,
+            "dni": 145.76,
+            "gti": 568.61
           },
           {
             "time_epoch": 1784032200,
@@ -13045,10 +13045,10 @@
             "gust_kph": 33.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 384.68,
-            "diff_rad": 110.26,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 302.42,
+            "diff_rad": 125.14,
+            "dni": 72.92,
+            "gti": 301.66
           },
           {
             "time_epoch": 1784035800,
@@ -13630,10 +13630,10 @@
             "gust_kph": 22.3,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 86.59,
-            "diff_rad": 21.22,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 77.42,
+            "diff_rad": 31.17,
+            "dni": 0.89,
+            "gti": 76.71
           },
           {
             "time_epoch": 1784079000,
@@ -13675,10 +13675,10 @@
             "gust_kph": 23.8,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 129.89,
-            "diff_rad": 31.82,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 116.12,
+            "diff_rad": 46.76,
+            "dni": 1.34,
+            "gti": 115.06
           },
           {
             "time_epoch": 1784082600,
@@ -13720,10 +13720,10 @@
             "gust_kph": 25.3,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 173.18,
-            "diff_rad": 42.43,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 154.83,
+            "diff_rad": 62.34,
+            "dni": 1.79,
+            "gti": 153.41
           },
           {
             "time_epoch": 1784086200,
@@ -13765,10 +13765,10 @@
             "gust_kph": 27.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 312.92,
-            "diff_rad": 80.52,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 269.03,
+            "diff_rad": 110.0,
+            "dni": 11.67,
+            "gti": 266.81
           },
           {
             "time_epoch": 1784089800,
@@ -13810,10 +13810,10 @@
             "gust_kph": 28.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 382.79,
-            "diff_rad": 99.57,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 326.13,
+            "diff_rad": 133.83,
+            "dni": 16.6,
+            "gti": 323.51
           },
           {
             "time_epoch": 1784093400,
@@ -13855,10 +13855,10 @@
             "gust_kph": 30.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 452.66,
-            "diff_rad": 118.62,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 383.23,
+            "diff_rad": 157.66,
+            "dni": 21.54,
+            "gti": 380.21
           },
           {
             "time_epoch": 1784097000,
@@ -13900,10 +13900,10 @@
             "gust_kph": 32.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 663.59,
-            "diff_rad": 219.77,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 445.0,
+            "diff_rad": 214.88,
+            "dni": 53.6,
+            "gti": 442.32
           },
           {
             "time_epoch": 1784100600,
@@ -13945,10 +13945,10 @@
             "gust_kph": 33.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 769.05,
-            "diff_rad": 270.35,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 475.88,
+            "diff_rad": 243.49,
+            "dni": 69.64,
+            "gti": 473.38
           },
           {
             "time_epoch": 1784104200,
@@ -13990,10 +13990,10 @@
             "gust_kph": 35.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 874.52,
-            "diff_rad": 320.93,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 506.76,
+            "diff_rad": 272.1,
+            "dni": 85.67,
+            "gti": 504.43
           },
           {
             "time_epoch": 1784107800,
@@ -14035,10 +14035,10 @@
             "gust_kph": 35.3,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 746.62,
-            "diff_rad": 286.64,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 461.5,
+            "diff_rad": 247.41,
+            "dni": 59.18,
+            "gti": 458.83
           },
           {
             "time_epoch": 1784111400,
@@ -14080,10 +14080,10 @@
             "gust_kph": 34.9,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 682.67,
-            "diff_rad": 269.5,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 438.87,
+            "diff_rad": 235.07,
+            "dni": 45.93,
+            "gti": 436.03
           },
           {
             "time_epoch": 1784115000,
@@ -14125,10 +14125,10 @@
             "gust_kph": 34.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 618.72,
-            "diff_rad": 252.36,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 416.24,
+            "diff_rad": 222.73,
+            "dni": 32.69,
+            "gti": 413.23
           },
           {
             "time_epoch": 1784118600,
@@ -14170,10 +14170,10 @@
             "gust_kph": 34.2,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 327.72,
-            "diff_rad": 135.56,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 218.61,
+            "diff_rad": 117.09,
+            "dni": 16.36,
+            "gti": 217.01
           },
           {
             "time_epoch": 1784122200,
@@ -14755,10 +14755,10 @@
             "gust_kph": 26.6,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 71.52,
-            "diff_rad": 33.9,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 44.25,
+            "diff_rad": 23.16,
+            "dni": 0.29,
+            "gti": 43.83
           },
           {
             "time_epoch": 1784165400,
@@ -14800,10 +14800,10 @@
             "gust_kph": 27.0,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 107.28,
-            "diff_rad": 50.86,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 66.37,
+            "diff_rad": 34.73,
+            "dni": 0.44,
+            "gti": 65.75
           },
           {
             "time_epoch": 1784169000,
@@ -14845,10 +14845,10 @@
             "gust_kph": 27.3,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 143.04,
-            "diff_rad": 67.81,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 88.5,
+            "diff_rad": 46.31,
+            "dni": 0.58,
+            "gti": 87.67
           },
           {
             "time_epoch": 1784172600,
@@ -14890,10 +14890,10 @@
             "gust_kph": 29.2,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 278.55,
-            "diff_rad": 115.08,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 153.82,
+            "diff_rad": 77.18,
+            "dni": 2.08,
+            "gti": 152.41
           },
           {
             "time_epoch": 1784176200,
@@ -14935,10 +14935,10 @@
             "gust_kph": 31.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 346.31,
-            "diff_rad": 138.72,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 186.48,
+            "diff_rad": 92.61,
+            "dni": 2.83,
+            "gti": 184.78
           },
           {
             "time_epoch": 1784179800,
@@ -14980,10 +14980,10 @@
             "gust_kph": 33.1,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 414.06,
-            "diff_rad": 162.36,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 219.14,
+            "diff_rad": 108.04,
+            "dni": 3.58,
+            "gti": 217.15
           },
           {
             "time_epoch": 1784183400,
@@ -15025,10 +15025,10 @@
             "gust_kph": 34.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 506.75,
-            "diff_rad": 240.37,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 357.61,
+            "diff_rad": 175.77,
+            "dni": 40.53,
+            "gti": 355.38
           },
           {
             "time_epoch": 1784187000,
@@ -15070,10 +15070,10 @@
             "gust_kph": 36.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 553.1,
-            "diff_rad": 279.37,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 426.84,
+            "diff_rad": 209.64,
+            "dni": 59.01,
+            "gti": 424.49
           },
           {
             "time_epoch": 1784190600,
@@ -15115,10 +15115,10 @@
             "gust_kph": 37.7,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 599.44,
-            "diff_rad": 318.38,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 496.08,
+            "diff_rad": 243.5,
+            "dni": 77.48,
+            "gti": 493.61
           },
           {
             "time_epoch": 1784194200,
@@ -15160,10 +15160,10 @@
             "gust_kph": 36.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 561.54,
-            "diff_rad": 292.01,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 399.86,
+            "diff_rad": 199.61,
+            "dni": 42.52,
+            "gti": 397.28
           },
           {
             "time_epoch": 1784197800,
@@ -15205,10 +15205,10 @@
             "gust_kph": 34.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 542.6,
-            "diff_rad": 278.83,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 351.74,
+            "diff_rad": 177.66,
+            "dni": 25.04,
+            "gti": 349.12
           },
           {
             "time_epoch": 1784201400,
@@ -15250,10 +15250,10 @@
             "gust_kph": 33.1,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 523.65,
-            "diff_rad": 265.65,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 303.63,
+            "diff_rad": 155.71,
+            "dni": 7.56,
+            "gti": 300.96
           },
           {
             "time_epoch": 1784205000,
@@ -15295,10 +15295,10 @@
             "gust_kph": 30.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 278.5,
-            "diff_rad": 141.13,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 152.8,
+            "diff_rad": 78.57,
+            "dni": 3.78,
+            "gti": 151.45
           },
           {
             "time_epoch": 1784208600,
@@ -15880,10 +15880,10 @@
             "gust_kph": 28.1,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 45.39,
-            "diff_rad": 24.21,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 54.35,
+            "diff_rad": 28.94,
+            "dni": 0.44,
+            "gti": 53.85
           },
           {
             "time_epoch": 1784251800,
@@ -15925,10 +15925,10 @@
             "gust_kph": 29.2,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 68.09,
-            "diff_rad": 36.31,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 81.53,
+            "diff_rad": 43.41,
+            "dni": 0.66,
+            "gti": 80.77
           },
           {
             "time_epoch": 1784255400,
@@ -15970,10 +15970,10 @@
             "gust_kph": 30.2,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 90.78,
-            "diff_rad": 48.42,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 108.7,
+            "diff_rad": 57.88,
+            "dni": 0.88,
+            "gti": 107.69
           },
           {
             "time_epoch": 1784259000,
@@ -16015,10 +16015,10 @@
             "gust_kph": 32.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 221.67,
-            "diff_rad": 103.69,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 216.1,
+            "diff_rad": 110.63,
+            "dni": 5.27,
+            "gti": 214.19
           },
           {
             "time_epoch": 1784262600,
@@ -16060,10 +16060,10 @@
             "gust_kph": 34.2,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 287.12,
-            "diff_rad": 131.32,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 269.79,
+            "diff_rad": 137.01,
+            "dni": 7.46,
+            "gti": 267.44
           },
           {
             "time_epoch": 1784266200,
@@ -16105,10 +16105,10 @@
             "gust_kph": 36.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 352.56,
-            "diff_rad": 158.96,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 323.49,
+            "diff_rad": 163.38,
+            "dni": 9.66,
+            "gti": 320.69
           },
           {
             "time_epoch": 1784269800,
@@ -16150,10 +16150,10 @@
             "gust_kph": 36.7,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 379.37,
-            "diff_rad": 193.54,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 351.96,
+            "diff_rad": 187.21,
+            "dni": 15.21,
+            "gti": 349.05
           },
           {
             "time_epoch": 1784273400,
@@ -16195,10 +16195,10 @@
             "gust_kph": 36.7,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 392.77,
-            "diff_rad": 210.82,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 366.2,
+            "diff_rad": 199.13,
+            "dni": 17.99,
+            "gti": 363.24
           },
           {
             "time_epoch": 1784277000,
@@ -16240,10 +16240,10 @@
             "gust_kph": 36.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 406.18,
-            "diff_rad": 228.11,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 380.44,
+            "diff_rad": 211.04,
+            "dni": 20.76,
+            "gti": 377.42
           },
           {
             "time_epoch": 1784280600,
@@ -16285,10 +16285,10 @@
             "gust_kph": 35.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 346.57,
-            "diff_rad": 195.96,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 340.87,
+            "diff_rad": 188.0,
+            "dni": 14.06,
+            "gti": 338.03
           },
           {
             "time_epoch": 1784284200,
@@ -16330,10 +16330,10 @@
             "gust_kph": 34.2,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 316.76,
-            "diff_rad": 179.88,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 321.08,
+            "diff_rad": 176.47,
+            "dni": 10.71,
+            "gti": 318.34
           },
           {
             "time_epoch": 1784287800,
@@ -16375,10 +16375,10 @@
             "gust_kph": 32.7,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 286.96,
-            "diff_rad": 163.8,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 301.3,
+            "diff_rad": 164.95,
+            "dni": 7.36,
+            "gti": 298.64
           },
           {
             "time_epoch": 1784291400,
@@ -16420,10 +16420,10 @@
             "gust_kph": 32.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 152.16,
-            "diff_rad": 86.74,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 163.53,
+            "diff_rad": 89.02,
+            "dni": 3.71,
+            "gti": 162.08
           },
           {
             "time_epoch": 1784295000,

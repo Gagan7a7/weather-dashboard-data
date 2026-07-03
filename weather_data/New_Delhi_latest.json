@@ -6,54 +6,54 @@
     "lat": 28.6,
     "lon": 77.2,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1783105703,
-    "localtime": "2026-07-04 00:38"
+    "localtime_epoch": 1783115978,
+    "localtime": "2026-07-04 03:29"
   },
   "current": {
-    "last_updated_epoch": 1783105200,
-    "last_updated": "2026-07-04 00:30",
-    "temp_c": 35.8,
-    "temp_f": 96.5,
+    "last_updated_epoch": 1783114200,
+    "last_updated": "2026-07-04 03:00",
+    "temp_c": 35.1,
+    "temp_f": 95.2,
     "is_day": 0,
     "condition": {
       "text": "Partly Cloudy",
       "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
       "code": 1003
     },
-    "wind_mph": 4.7,
-    "wind_kph": 7.6,
-    "wind_degree": 128,
-    "wind_dir": "SE",
+    "wind_mph": 5.1,
+    "wind_kph": 8.3,
+    "wind_degree": 113,
+    "wind_dir": "ESE",
     "pressure_mb": 997.0,
     "pressure_in": 29.44,
     "precip_mm": 0.0,
     "precip_in": 0.0,
-    "humidity": 42,
-    "cloud": 32,
-    "feelslike_c": 39.5,
-    "feelslike_f": 103.1,
-    "windchill_c": 35.8,
-    "windchill_f": 96.5,
-    "heatindex_c": 40.2,
-    "heatindex_f": 104.4,
+    "humidity": 44,
+    "cloud": 26,
+    "feelslike_c": 38.6,
+    "feelslike_f": 101.5,
+    "windchill_c": 35.1,
+    "windchill_f": 95.2,
+    "heatindex_c": 39.3,
+    "heatindex_f": 102.8,
     "dewpoint_c": 20.9,
-    "dewpoint_f": 69.7,
+    "dewpoint_f": 69.6,
     "vis_km": 10.0,
     "vis_miles": 6.0,
     "uv": 0.0,
-    "gust_mph": 6.4,
-    "gust_kph": 10.3,
+    "gust_mph": 7.1,
+    "gust_kph": 11.5,
     "will_it_rain": 0,
-    "chance_of_rain": 3,
+    "chance_of_rain": 2,
     "will_it_snow": 0,
     "chance_of_snow": 0,
     "air_quality": {
-      "co": 1039.0,
-      "no2": 45.4,
-      "o3": 49.0,
-      "so2": 30.6,
-      "pm2_5": 49.9,
-      "pm10": 55.3,
+      "co": 778.0,
+      "no2": 38.6,
+      "o3": 51.0,
+      "so2": 27.6,
+      "pm2_5": 52.6,
+      "pm10": 64.0,
       "us-epa-index": 3,
       "gb-defra-index": 6
     },
@@ -405,7 +405,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 46,
-            "cloud": 72,
+            "cloud": 76,
             "feelslike_c": 37.5,
             "feelslike_f": 99.5,
             "windchill_c": 34.2,
@@ -487,10 +487,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 7
             },
-            "short_rad": 38.84,
-            "diff_rad": 20.17,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 34.3,
+            "diff_rad": 17.75,
+            "dni": 0.08,
+            "gti": 32.62
           },
           {
             "time_epoch": 1783128600,
@@ -541,10 +541,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 6
             },
-            "short_rad": 116.0,
-            "diff_rad": 46.67,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 90.06,
+            "diff_rad": 47.54,
+            "dni": 0.59,
+            "gti": 85.61
           },
           {
             "time_epoch": 1783132200,
@@ -595,10 +595,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 5
             },
-            "short_rad": 208.11,
-            "diff_rad": 66.14,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 155.41,
+            "diff_rad": 79.08,
+            "dni": 1.74,
+            "gti": 147.65
           },
           {
             "time_epoch": 1783135800,
@@ -649,10 +649,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 4
             },
-            "short_rad": 301.76,
-            "diff_rad": 81.46,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 170.08,
+            "diff_rad": 90.51,
+            "dni": 2.09,
+            "gti": 161.57
           },
           {
             "time_epoch": 1783139400,
@@ -703,10 +703,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 4
             },
-            "short_rad": 390.03,
-            "diff_rad": 93.44,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 200.5,
+            "diff_rad": 109.33,
+            "dni": 2.9,
+            "gti": 190.42
           },
           {
             "time_epoch": 1783143000,
@@ -757,10 +757,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 467.73,
-            "diff_rad": 102.98,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 265.22,
+            "diff_rad": 141.35,
+            "dni": 5.08,
+            "gti": 251.76
           },
           {
             "time_epoch": 1783146600,
@@ -811,10 +811,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 902.96,
-            "diff_rad": 174.56,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 886.22,
+            "diff_rad": 226.99,
+            "dni": 675.51,
+            "gti": 775.15
           },
           {
             "time_epoch": 1783150200,
@@ -865,10 +865,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 895.18,
-            "diff_rad": 190.19,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 897.8,
+            "diff_rad": 193.34,
+            "dni": 697.73,
+            "gti": 783.93
           },
           {
             "time_epoch": 1783153800,
@@ -919,10 +919,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 4
             },
-            "short_rad": 869.04,
-            "diff_rad": 195.95,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 852.26,
+            "diff_rad": 191.66,
+            "dni": 608.29,
+            "gti": 749.6
           },
           {
             "time_epoch": 1783157400,
@@ -973,10 +973,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 4
             },
-            "short_rad": 822.62,
-            "diff_rad": 195.38,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 757.84,
+            "diff_rad": 199.66,
+            "dni": 420.55,
+            "gti": 678.63
           },
           {
             "time_epoch": 1783161000,
@@ -1027,10 +1027,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 4
             },
-            "short_rad": 769.16,
-            "diff_rad": 181.29,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 706.7,
+            "diff_rad": 197.52,
+            "dni": 327.48,
+            "gti": 639.33
           },
           {
             "time_epoch": 1783164600,
@@ -1081,10 +1081,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 4
             },
-            "short_rad": 701.15,
-            "diff_rad": 168.07,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 647.86,
+            "diff_rad": 183.63,
+            "dni": 233.8,
+            "gti": 592.76
           },
           {
             "time_epoch": 1783168200,
@@ -1135,10 +1135,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 4
             },
-            "short_rad": 166.96,
-            "diff_rad": 63.66,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 129.08,
+            "diff_rad": 53.12,
+            "dni": 1.2,
+            "gti": 122.66
           },
           {
             "time_epoch": 1783171800,
@@ -1377,7 +1377,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 34,
-            "cloud": 87,
+            "cloud": 82,
             "feelslike_c": 33.2,
             "feelslike_f": 91.8,
             "windchill_c": 39.0,
@@ -1387,7 +1387,7 @@
             "dewpoint_c": 20.1,
             "dewpoint_f": 68.1,
             "will_it_rain": 0,
-            "chance_of_rain": 20,
+            "chance_of_rain": 19,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.0,
@@ -1753,7 +1753,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 38,
-            "cloud": 73,
+            "cloud": 85,
             "feelslike_c": 31.8,
             "feelslike_f": 89.2,
             "windchill_c": 37.0,
@@ -1807,7 +1807,7 @@
             "precip_in": 0.09,
             "snow_cm": 0.0,
             "humidity": 43,
-            "cloud": 73,
+            "cloud": 86,
             "feelslike_c": 39.4,
             "feelslike_f": 102.9,
             "windchill_c": 35.7,
@@ -1835,10 +1835,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 5
             },
-            "short_rad": 36.26,
-            "diff_rad": 18.78,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 37.42,
+            "diff_rad": 19.76,
+            "dni": 0.1,
+            "gti": 35.58
           },
           {
             "time_epoch": 1783215000,
@@ -1861,7 +1861,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 40,
-            "cloud": 87,
+            "cloud": 86,
             "feelslike_c": 31.2,
             "feelslike_f": 88.2,
             "windchill_c": 36.6,
@@ -1889,10 +1889,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 5
             },
-            "short_rad": 94.02,
-            "diff_rad": 49.37,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 116.4,
+            "diff_rad": 44.86,
+            "dni": 0.98,
+            "gti": 110.62
           },
           {
             "time_epoch": 1783218600,
@@ -1915,7 +1915,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 38,
-            "cloud": 80,
+            "cloud": 76,
             "feelslike_c": 32.4,
             "feelslike_f": 90.3,
             "windchill_c": 37.4,
@@ -1943,10 +1943,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 4
             },
-            "short_rad": 192.24,
-            "diff_rad": 69.1,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 208.66,
+            "diff_rad": 64.64,
+            "dni": 3.14,
+            "gti": 198.16
           },
           {
             "time_epoch": 1783222200,
@@ -1997,10 +1997,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 289.31,
-            "diff_rad": 83.66,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 299.15,
+            "diff_rad": 80.47,
+            "dni": 6.82,
+            "gti": 283.87
           },
           {
             "time_epoch": 1783225800,
@@ -2051,10 +2051,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 379.55,
-            "diff_rad": 95.36,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 382.29,
+            "diff_rad": 95.69,
+            "dni": 19.64,
+            "gti": 361.66
           },
           {
             "time_epoch": 1783229400,
@@ -2105,10 +2105,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 458.7,
-            "diff_rad": 104.58,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 457.9,
+            "diff_rad": 107.53,
+            "dni": 48.65,
+            "gti": 430.67
           },
           {
             "time_epoch": 1783233000,
@@ -2159,10 +2159,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 910.08,
-            "diff_rad": 155.62,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 906.14,
+            "diff_rad": 163.44,
+            "dni": 713.42,
+            "gti": 790.29
           },
           {
             "time_epoch": 1783236600,
@@ -2213,10 +2213,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 904.74,
-            "diff_rad": 163.2,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 897.34,
+            "diff_rad": 183.78,
+            "dni": 696.86,
+            "gti": 783.58
           },
           {
             "time_epoch": 1783240200,
@@ -2267,10 +2267,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 784.2,
-            "diff_rad": 190.67,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 879.66,
+            "diff_rad": 172.69,
+            "dni": 662.73,
+            "gti": 770.19
           },
           {
             "time_epoch": 1783243800,
@@ -2293,7 +2293,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 28,
-            "cloud": 79,
+            "cloud": 85,
             "feelslike_c": 35.5,
             "feelslike_f": 95.9,
             "windchill_c": 42.2,
@@ -2321,10 +2321,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 638.9,
-            "diff_rad": 173.23,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 836.04,
+            "diff_rad": 164.58,
+            "dni": 575.6,
+            "gti": 737.45
           },
           {
             "time_epoch": 1783247400,
@@ -2347,7 +2347,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 28,
-            "cloud": 73,
+            "cloud": 83,
             "feelslike_c": 35.9,
             "feelslike_f": 96.6,
             "windchill_c": 42.1,
@@ -2375,10 +2375,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 537.78,
-            "diff_rad": 154.01,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 760.5,
+            "diff_rad": 156.5,
+            "dni": 425.63,
+            "gti": 680.65
           },
           {
             "time_epoch": 1783251000,
@@ -2401,7 +2401,7 @@
             "precip_in": 0.03,
             "snow_cm": 0.0,
             "humidity": 32,
-            "cloud": 80,
+            "cloud": 75,
             "feelslike_c": 33.1,
             "feelslike_f": 91.6,
             "windchill_c": 40.4,
@@ -2429,10 +2429,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 482.64,
-            "diff_rad": 146.5,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 692.29,
+            "diff_rad": 148.05,
+            "dni": 303.08,
+            "gti": 628.07
           },
           {
             "time_epoch": 1783254600,
@@ -2455,7 +2455,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 42,
-            "cloud": 76,
+            "cloud": 87,
             "feelslike_c": 42.4,
             "feelslike_f": 108.3,
             "windchill_c": 37.2,
@@ -2465,7 +2465,7 @@
             "dewpoint_c": 22.0,
             "dewpoint_f": 71.7,
             "will_it_rain": 0,
-            "chance_of_rain": 17,
+            "chance_of_rain": 18,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.0,
@@ -2483,10 +2483,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 37.38,
-            "diff_rad": 22.35,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 149.22,
+            "diff_rad": 73.14,
+            "dni": 1.61,
+            "gti": 141.78
           },
           {
             "time_epoch": 1783258200,
@@ -2509,7 +2509,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 41,
-            "cloud": 72,
+            "cloud": 85,
             "feelslike_c": 42.6,
             "feelslike_f": 108.7,
             "windchill_c": 37.5,
@@ -2671,7 +2671,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 42,
-            "cloud": 73,
+            "cloud": 76,
             "feelslike_c": 42.1,
             "feelslike_f": 107.8,
             "windchill_c": 36.9,
@@ -2939,7 +2939,7 @@
             "precip_in": 0.03,
             "snow_cm": 0.0,
             "humidity": 55,
-            "cloud": 86,
+            "cloud": 88,
             "feelslike_c": 38.9,
             "feelslike_f": 102.0,
             "windchill_c": 33.4,
@@ -2993,7 +2993,7 @@
             "precip_in": 0.03,
             "snow_cm": 0.0,
             "humidity": 69,
-            "cloud": 86,
+            "cloud": 85,
             "feelslike_c": 36.6,
             "feelslike_f": 97.9,
             "windchill_c": 30.7,
@@ -3047,7 +3047,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 74,
-            "cloud": 78,
+            "cloud": 73,
             "feelslike_c": 35.0,
             "feelslike_f": 95.0,
             "windchill_c": 29.6,
@@ -3101,7 +3101,7 @@
             "precip_in": 0.03,
             "snow_cm": 0.0,
             "humidity": 67,
-            "cloud": 73,
+            "cloud": 71,
             "feelslike_c": 33.7,
             "feelslike_f": 92.7,
             "windchill_c": 29.7,
@@ -3183,10 +3183,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 5
             },
-            "short_rad": 3.36,
-            "diff_rad": 2.49,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 13.76,
+            "diff_rad": 7.51,
+            "dni": 0.01,
+            "gti": 13.09
           },
           {
             "time_epoch": 1783301400,
@@ -3237,10 +3237,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 4
             },
-            "short_rad": 10.74,
-            "diff_rad": 7.57,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 11.12,
+            "diff_rad": 6.9,
+            "dni": 0.01,
+            "gti": 10.58
           },
           {
             "time_epoch": 1783305000,
@@ -3291,10 +3291,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 29.09,
-            "diff_rad": 18.92,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 9.9,
+            "diff_rad": 6.68,
+            "dni": 0.01,
+            "gti": 9.42
           },
           {
             "time_epoch": 1783308600,
@@ -3317,7 +3317,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 61,
-            "cloud": 77,
+            "cloud": 84,
             "feelslike_c": 35.0,
             "feelslike_f": 95.0,
             "windchill_c": 30.9,
@@ -3327,7 +3327,7 @@
             "dewpoint_c": 22.6,
             "dewpoint_f": 72.7,
             "will_it_rain": 0,
-            "chance_of_rain": 12,
+            "chance_of_rain": 13,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -3345,10 +3345,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 49.55,
-            "diff_rad": 31.67,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 32.56,
+            "diff_rad": 21.06,
+            "dni": 0.08,
+            "gti": 30.96
           },
           {
             "time_epoch": 1783312200,
@@ -3371,7 +3371,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 57,
-            "cloud": 74,
+            "cloud": 86,
             "feelslike_c": 35.7,
             "feelslike_f": 96.3,
             "windchill_c": 31.8,
@@ -3381,7 +3381,7 @@
             "dewpoint_c": 22.2,
             "dewpoint_f": 71.9,
             "will_it_rain": 0,
-            "chance_of_rain": 11,
+            "chance_of_rain": 12,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -3399,10 +3399,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 60.0,
-            "diff_rad": 38.47,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 75.94,
+            "diff_rad": 46.19,
+            "dni": 0.42,
+            "gti": 72.19
           },
           {
             "time_epoch": 1783315800,
@@ -3425,7 +3425,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 52,
-            "cloud": 72,
+            "cloud": 75,
             "feelslike_c": 36.3,
             "feelslike_f": 97.3,
             "windchill_c": 32.7,
@@ -3453,10 +3453,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 69.49,
-            "diff_rad": 44.59,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 83.9,
+            "diff_rad": 51.78,
+            "dni": 0.51,
+            "gti": 79.76
           },
           {
             "time_epoch": 1783319400,
@@ -3479,7 +3479,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 53,
-            "cloud": 86,
+            "cloud": 85,
             "feelslike_c": 36.1,
             "feelslike_f": 97.0,
             "windchill_c": 32.6,
@@ -3507,10 +3507,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 71.82,
-            "diff_rad": 50.56,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 268.72,
+            "diff_rad": 159.94,
+            "dni": 5.21,
+            "gti": 255.08
           },
           {
             "time_epoch": 1783323000,
@@ -3533,7 +3533,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 53,
-            "cloud": 73,
+            "cloud": 80,
             "feelslike_c": 36.1,
             "feelslike_f": 97.0,
             "windchill_c": 32.5,
@@ -3561,10 +3561,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 89.16,
-            "diff_rad": 60.59,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 183.5,
+            "diff_rad": 112.93,
+            "dni": 2.43,
+            "gti": 174.3
           },
           {
             "time_epoch": 1783326600,
@@ -3615,10 +3615,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 108.54,
-            "diff_rad": 68.94,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 152.88,
+            "diff_rad": 95.73,
+            "dni": 1.69,
+            "gti": 145.25
           },
           {
             "time_epoch": 1783330200,
@@ -3669,10 +3669,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 127.38,
-            "diff_rad": 70.8,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 170.4,
+            "diff_rad": 102.21,
+            "dni": 2.1,
+            "gti": 161.87
           },
           {
             "time_epoch": 1783333800,
@@ -3723,10 +3723,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 148.06,
-            "diff_rad": 78.91,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 194.68,
+            "diff_rad": 105.06,
+            "dni": 2.73,
+            "gti": 184.9
           },
           {
             "time_epoch": 1783337400,
@@ -3777,10 +3777,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 159.54,
-            "diff_rad": 84.19,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 186.16,
+            "diff_rad": 101.14,
+            "dni": 2.5,
+            "gti": 176.82
           },
           {
             "time_epoch": 1783341000,
@@ -3831,10 +3831,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 164.6,
-            "diff_rad": 64.56,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 44.08,
+            "diff_rad": 26.1,
+            "dni": 0.14,
+            "gti": 41.91
           },
           {
             "time_epoch": 1783344600,
@@ -4287,7 +4287,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 53,
-            "cloud": 72,
+            "cloud": 85,
             "feelslike_c": 37.5,
             "feelslike_f": 99.5,
             "windchill_c": 33.1,
@@ -4297,7 +4297,7 @@
             "dewpoint_c": 22.3,
             "dewpoint_f": 72.2,
             "will_it_rain": 0,
-            "chance_of_rain": 18,
+            "chance_of_rain": 21,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.0,
@@ -4341,7 +4341,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 55,
-            "cloud": 86,
+            "cloud": 81,
             "feelslike_c": 37.9,
             "feelslike_f": 100.2,
             "windchill_c": 33.0,
@@ -4351,7 +4351,7 @@
             "dewpoint_c": 22.9,
             "dewpoint_f": 73.1,
             "will_it_rain": 0,
-            "chance_of_rain": 13,
+            "chance_of_rain": 12,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -4395,7 +4395,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 57,
-            "cloud": 83,
+            "cloud": 74,
             "feelslike_c": 37.9,
             "feelslike_f": 100.2,
             "windchill_c": 32.8,
@@ -4531,10 +4531,10 @@
               "us-epa-index": 3,
               "gb-defra-index": 6
             },
-            "short_rad": 34.8,
-            "diff_rad": 18.81,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 35.28,
+            "diff_rad": 18.96,
+            "dni": 0.09,
+            "gti": 33.55
           },
           {
             "time_epoch": 1783387800,
@@ -4585,10 +4585,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 111.6,
-            "diff_rad": 44.83,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 112.72,
+            "diff_rad": 44.72,
+            "dni": 0.92,
+            "gti": 107.13
           },
           {
             "time_epoch": 1783391400,
@@ -4639,10 +4639,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 203.06,
-            "diff_rad": 65.38,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 203.68,
+            "diff_rad": 65.33,
+            "dni": 2.99,
+            "gti": 193.44
           },
           {
             "time_epoch": 1783395000,
@@ -4693,10 +4693,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 296.61,
-            "diff_rad": 81.3,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 296.82,
+            "diff_rad": 81.33,
+            "dni": 6.66,
+            "gti": 281.66
           },
           {
             "time_epoch": 1783398600,
@@ -4747,10 +4747,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 3
             },
-            "short_rad": 384.8,
-            "diff_rad": 94.05,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 384.51,
+            "diff_rad": 94.14,
+            "dni": 20.22,
+            "gti": 363.72
           },
           {
             "time_epoch": 1783402200,
@@ -4801,10 +4801,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 462.42,
-            "diff_rad": 104.61,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 461.87,
+            "diff_rad": 104.34,
+            "dni": 50.76,
+            "gti": 434.23
           },
           {
             "time_epoch": 1783405800,
@@ -4827,7 +4827,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 34,
-            "cloud": 89,
+            "cloud": 79,
             "feelslike_c": 32.5,
             "feelslike_f": 90.5,
             "windchill_c": 39.3,
@@ -4837,7 +4837,7 @@
             "dewpoint_c": 20.8,
             "dewpoint_f": 69.4,
             "will_it_rain": 0,
-            "chance_of_rain": 20,
+            "chance_of_rain": 18,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.0,
@@ -4855,10 +4855,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 622.7,
-            "diff_rad": 268.83,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 904.0,
+            "diff_rad": 163.76,
+            "dni": 709.43,
+            "gti": 788.66
           },
           {
             "time_epoch": 1783409400,
@@ -4881,7 +4881,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 35,
-            "cloud": 85,
+            "cloud": 76,
             "feelslike_c": 32.0,
             "feelslike_f": 89.6,
             "windchill_c": 38.7,
@@ -4909,10 +4909,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 409.14,
-            "diff_rad": 194.8,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 856.36,
+            "diff_rad": 188.43,
+            "dni": 616.52,
+            "gti": 752.67
           },
           {
             "time_epoch": 1783413000,
@@ -4963,10 +4963,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 414.7,
-            "diff_rad": 203.89,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 711.88,
+            "diff_rad": 193.2,
+            "dni": 336.46,
+            "gti": 643.36
           },
           {
             "time_epoch": 1783416600,
@@ -5017,10 +5017,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 361.08,
-            "diff_rad": 182.9,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 668.18,
+            "diff_rad": 190.78,
+            "dni": 264.33,
+            "gti": 609.03
           },
           {
             "time_epoch": 1783420200,
@@ -5071,10 +5071,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 398.08,
-            "diff_rad": 173.81,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 581.22,
+            "diff_rad": 172.86,
+            "dni": 148.27,
+            "gti": 537.97
           },
           {
             "time_epoch": 1783423800,
@@ -5125,10 +5125,10 @@
               "us-epa-index": 2,
               "gb-defra-index": 2
             },
-            "short_rad": 389.31,
-            "diff_rad": 164.81,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 517.07,
+            "diff_rad": 159.04,
+            "dni": 87.37,
+            "gti": 483.06
           },
           {
             "time_epoch": 1783427400,
@@ -5170,10 +5170,10 @@
             "gust_kph": 22.7,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 165.1,
-            "diff_rad": 64.38,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 163.8,
+            "diff_rad": 64.55,
+            "dni": 1.94,
+            "gti": 155.61
           },
           {
             "time_epoch": 1783431000,
@@ -5755,10 +5755,10 @@
             "gust_kph": 13.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 34.36,
-            "diff_rad": 18.33,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 33.06,
+            "diff_rad": 17.78,
+            "dni": 0.08,
+            "gti": 31.44
           },
           {
             "time_epoch": 1783474200,
@@ -5800,10 +5800,10 @@
             "gust_kph": 13.7,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 111.14,
-            "diff_rad": 45.34,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 103.14,
+            "diff_rad": 43.78,
+            "dni": 0.77,
+            "gti": 98.03
           },
           {
             "time_epoch": 1783477800,
@@ -5845,10 +5845,10 @@
             "gust_kph": 12.9,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 203.3,
-            "diff_rad": 65.67,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 133.3,
+            "diff_rad": 62.3,
+            "dni": 1.28,
+            "gti": 126.66
           },
           {
             "time_epoch": 1783481400,
@@ -5890,10 +5890,10 @@
             "gust_kph": 14.5,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 297.06,
-            "diff_rad": 81.74,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 144.66,
+            "diff_rad": 73.14,
+            "dni": 1.51,
+            "gti": 137.44
           },
           {
             "time_epoch": 1783485000,
@@ -5935,10 +5935,10 @@
             "gust_kph": 16.6,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 385.46,
-            "diff_rad": 94.73,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 168.98,
+            "diff_rad": 88.67,
+            "dni": 2.06,
+            "gti": 160.52
           },
           {
             "time_epoch": 1783488600,
@@ -5980,10 +5980,10 @@
             "gust_kph": 16.2,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 463.49,
-            "diff_rad": 105.06,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 264.94,
+            "diff_rad": 104.67,
+            "dni": 5.07,
+            "gti": 251.5
           },
           {
             "time_epoch": 1783492200,
@@ -6025,10 +6025,10 @@
             "gust_kph": 17.6,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 476.2,
-            "diff_rad": 147.36,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 906.74,
+            "diff_rad": 158.16,
+            "dni": 714.54,
+            "gti": 790.75
           },
           {
             "time_epoch": 1783495800,
@@ -6070,10 +6070,10 @@
             "gust_kph": 19.1,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 482.56,
-            "diff_rad": 168.51,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 903.16,
+            "diff_rad": 160.26,
+            "dni": 707.85,
+            "gti": 788.02
           },
           {
             "time_epoch": 1783499400,
@@ -6115,10 +6115,10 @@
             "gust_kph": 20.3,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 488.92,
-            "diff_rad": 189.66,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 840.72,
+            "diff_rad": 179.98,
+            "dni": 585.05,
+            "gti": 740.95
           },
           {
             "time_epoch": 1783503000,
@@ -6141,7 +6141,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 34,
-            "cloud": 56,
+            "cloud": 54,
             "feelslike_c": 31.1,
             "feelslike_f": 88.0,
             "windchill_c": 38.4,
@@ -6160,10 +6160,10 @@
             "gust_kph": 19.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 455.04,
-            "diff_rad": 183.67,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 683.88,
+            "diff_rad": 158.74,
+            "dni": 289.27,
+            "gti": 621.46
           },
           {
             "time_epoch": 1783506600,
@@ -6186,7 +6186,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 34,
-            "cloud": 65,
+            "cloud": 63,
             "feelslike_c": 31.3,
             "feelslike_f": 88.3,
             "windchill_c": 38.5,
@@ -6205,10 +6205,10 @@
             "gust_kph": 19.1,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 438.11,
-            "diff_rad": 180.68,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 612.52,
+            "diff_rad": 155.49,
+            "dni": 185.61,
+            "gti": 563.99
           },
           {
             "time_epoch": 1783510200,
@@ -6231,7 +6231,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 34,
-            "cloud": 74,
+            "cloud": 71,
             "feelslike_c": 31.4,
             "feelslike_f": 88.5,
             "windchill_c": 38.5,
@@ -6250,10 +6250,10 @@
             "gust_kph": 18.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 421.17,
-            "diff_rad": 177.68,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 547.71,
+            "diff_rad": 141.63,
+            "dni": 113.88,
+            "gti": 509.55
           },
           {
             "time_epoch": 1783513800,
@@ -6276,7 +6276,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 36,
-            "cloud": 65,
+            "cloud": 63,
             "feelslike_c": 30.5,
             "feelslike_f": 86.9,
             "windchill_c": 37.7,
@@ -6295,10 +6295,10 @@
             "gust_kph": 19.4,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 217.27,
-            "diff_rad": 92.89,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 293.49,
+            "diff_rad": 80.66,
+            "dni": 56.99,
+            "gti": 273.44
           },
           {
             "time_epoch": 1783517400,
@@ -6321,7 +6321,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 38,
-            "cloud": 56,
+            "cloud": 55,
             "feelslike_c": 29.6,
             "feelslike_f": 85.3,
             "windchill_c": 37.0,
@@ -6880,10 +6880,10 @@
             "gust_kph": 11.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 101.01,
-            "diff_rad": 32.94,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 88.82,
+            "diff_rad": 37.77,
+            "dni": 1.14,
+            "gti": 84.36
           },
           {
             "time_epoch": 1783560600,
@@ -6925,10 +6925,10 @@
             "gust_kph": 10.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 151.51,
-            "diff_rad": 49.4,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 133.22,
+            "diff_rad": 56.66,
+            "dni": 1.71,
+            "gti": 126.55
           },
           {
             "time_epoch": 1783564200,
@@ -6970,10 +6970,10 @@
             "gust_kph": 9.9,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 202.02,
-            "diff_rad": 65.87,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 177.63,
+            "diff_rad": 75.54,
+            "dni": 2.28,
+            "gti": 168.73
           },
           {
             "time_epoch": 1783567800,
@@ -6996,7 +6996,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 47,
-            "cloud": 43,
+            "cloud": 41,
             "feelslike_c": 40.5,
             "feelslike_f": 104.9,
             "windchill_c": 35.5,
@@ -7015,10 +7015,10 @@
             "gust_kph": 11.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 330.8,
-            "diff_rad": 88.04,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 276.67,
+            "diff_rad": 100.51,
+            "dni": 10.15,
+            "gti": 262.15
           },
           {
             "time_epoch": 1783571400,
@@ -7041,7 +7041,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 43,
-            "cloud": 61,
+            "cloud": 56,
             "feelslike_c": 41.7,
             "feelslike_f": 107.1,
             "windchill_c": 36.7,
@@ -7060,10 +7060,10 @@
             "gust_kph": 12.2,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 395.19,
-            "diff_rad": 99.12,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 326.19,
+            "diff_rad": 113.0,
+            "dni": 14.08,
+            "gti": 308.86
           },
           {
             "time_epoch": 1783575000,
@@ -7086,7 +7086,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 39,
-            "cloud": 79,
+            "cloud": 72,
             "feelslike_c": 31.7,
             "feelslike_f": 89.1,
             "windchill_c": 37.9,
@@ -7096,7 +7096,7 @@
             "dewpoint_c": 21.4,
             "dewpoint_f": 70.6,
             "will_it_rain": 0,
-            "chance_of_rain": 7,
+            "chance_of_rain": 6,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -7105,10 +7105,10 @@
             "gust_kph": 13.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 459.58,
-            "diff_rad": 110.21,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 375.71,
+            "diff_rad": 125.48,
+            "dni": 18.01,
+            "gti": 355.57
           },
           {
             "time_epoch": 1783578600,
@@ -7131,7 +7131,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 38,
-            "cloud": 69,
+            "cloud": 64,
             "feelslike_c": 31.8,
             "feelslike_f": 89.2,
             "windchill_c": 38.0,
@@ -7141,7 +7141,7 @@
             "dewpoint_c": 21.1,
             "dewpoint_f": 70.0,
             "will_it_rain": 0,
-            "chance_of_rain": 6,
+            "chance_of_rain": 5,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -7150,10 +7150,10 @@
             "gust_kph": 13.7,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 451.78,
-            "diff_rad": 145.44,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 397.92,
+            "diff_rad": 146.84,
+            "dni": 24.81,
+            "gti": 376.01
           },
           {
             "time_epoch": 1783582200,
@@ -7176,7 +7176,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 37,
-            "cloud": 59,
+            "cloud": 56,
             "feelslike_c": 31.7,
             "feelslike_f": 89.1,
             "windchill_c": 38.0,
@@ -7195,10 +7195,10 @@
             "gust_kph": 13.7,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 447.88,
-            "diff_rad": 163.06,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 409.02,
+            "diff_rad": 157.51,
+            "dni": 28.21,
+            "gti": 386.22
           },
           {
             "time_epoch": 1783585800,
@@ -7240,10 +7240,10 @@
             "gust_kph": 14.0,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 443.98,
-            "diff_rad": 180.67,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 420.12,
+            "diff_rad": 168.19,
+            "dni": 31.61,
+            "gti": 396.44
           },
           {
             "time_epoch": 1783589400,
@@ -7285,10 +7285,10 @@
             "gust_kph": 11.5,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 351.05,
-            "diff_rad": 146.27,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 329.71,
+            "diff_rad": 135.61,
+            "dni": 17.87,
+            "gti": 311.82
           },
           {
             "time_epoch": 1783593000,
@@ -7330,10 +7330,10 @@
             "gust_kph": 9.4,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 304.58,
-            "diff_rad": 129.07,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 284.5,
+            "diff_rad": 119.32,
+            "dni": 11.0,
+            "gti": 269.51
           },
           {
             "time_epoch": 1783596600,
@@ -7375,10 +7375,10 @@
             "gust_kph": 6.9,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 258.11,
-            "diff_rad": 111.86,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 239.3,
+            "diff_rad": 103.02,
+            "dni": 4.13,
+            "gti": 227.2
           },
           {
             "time_epoch": 1783600200,
@@ -7420,10 +7420,10 @@
             "gust_kph": 11.5,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 131.76,
-            "diff_rad": 57.76,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 123.08,
+            "diff_rad": 53.76,
+            "dni": 2.07,
+            "gti": 116.86
           },
           {
             "time_epoch": 1783603800,
@@ -7671,7 +7671,7 @@
           "avgvis_miles": 6.0,
           "avghumidity": 51,
           "daily_will_it_rain": 0,
-          "daily_chance_of_rain": 60,
+          "daily_chance_of_rain": 59,
           "daily_will_it_snow": 0,
           "daily_chance_of_snow": 0,
           "condition": {
@@ -7691,7 +7691,7 @@
           "moonset": "03:01 PM",
           "moon_phase": "Waning Crescent",
           "moon_illumination": 12,
-          "is_moon_up": 0,
+          "is_moon_up": 1,
           "is_sun_up": 0
         },
         "hour": [
@@ -7716,7 +7716,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 50,
-            "cloud": 48,
+            "cloud": 43,
             "feelslike_c": 38.6,
             "feelslike_f": 101.5,
             "windchill_c": 34.0,
@@ -7761,7 +7761,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 53,
-            "cloud": 67,
+            "cloud": 57,
             "feelslike_c": 38.1,
             "feelslike_f": 100.6,
             "windchill_c": 33.4,
@@ -7806,7 +7806,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 56,
-            "cloud": 85,
+            "cloud": 70,
             "feelslike_c": 37.5,
             "feelslike_f": 99.5,
             "windchill_c": 32.7,
@@ -7851,7 +7851,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 57,
-            "cloud": 63,
+            "cloud": 53,
             "feelslike_c": 37.3,
             "feelslike_f": 99.1,
             "windchill_c": 32.5,
@@ -7896,7 +7896,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 58,
-            "cloud": 41,
+            "cloud": 36,
             "feelslike_c": 37.0,
             "feelslike_f": 98.6,
             "windchill_c": 32.2,
@@ -8005,10 +8005,10 @@
             "gust_kph": 12.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 100.91,
-            "diff_rad": 32.52,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 97.3,
+            "diff_rad": 34.14,
+            "dni": 1.37,
+            "gti": 92.41
           },
           {
             "time_epoch": 1783647000,
@@ -8050,10 +8050,10 @@
             "gust_kph": 11.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 151.37,
-            "diff_rad": 48.79,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 145.94,
+            "diff_rad": 51.2,
+            "dni": 2.05,
+            "gti": 138.62
           },
           {
             "time_epoch": 1783650600,
@@ -8095,10 +8095,10 @@
             "gust_kph": 9.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 201.82,
-            "diff_rad": 65.05,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 194.59,
+            "diff_rad": 68.27,
+            "dni": 2.73,
+            "gti": 184.82
           },
           {
             "time_epoch": 1783654200,
@@ -8140,10 +8140,10 @@
             "gust_kph": 8.3,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 330.69,
-            "diff_rad": 86.01,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 317.54,
+            "diff_rad": 101.77,
+            "dni": 21.42,
+            "gti": 299.89
           },
           {
             "time_epoch": 1783657800,
@@ -8185,10 +8185,10 @@
             "gust_kph": 6.5,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 395.12,
-            "diff_rad": 96.49,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 379.01,
+            "diff_rad": 118.52,
+            "dni": 30.77,
+            "gti": 357.42
           },
           {
             "time_epoch": 1783661400,
@@ -8230,10 +8230,10 @@
             "gust_kph": 4.9,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 459.55,
-            "diff_rad": 106.98,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 440.48,
+            "diff_rad": 135.27,
+            "dni": 40.11,
+            "gti": 414.96
           },
           {
             "time_epoch": 1783665000,
@@ -8256,7 +8256,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 40,
-            "cloud": 49,
+            "cloud": 43,
             "feelslike_c": 44.4,
             "feelslike_f": 111.9,
             "windchill_c": 38.4,
@@ -8275,10 +8275,10 @@
             "gust_kph": 5.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 658.66,
-            "diff_rad": 145.43,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 466.92,
+            "diff_rad": 172.26,
+            "dni": 55.03,
+            "gti": 438.61
           },
           {
             "time_epoch": 1783668600,
@@ -8301,7 +8301,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 38,
-            "cloud": 69,
+            "cloud": 57,
             "feelslike_c": 34.3,
             "feelslike_f": 93.7,
             "windchill_c": 39.1,
@@ -8320,10 +8320,10 @@
             "gust_kph": 5.0,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 758.21,
-            "diff_rad": 164.66,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 480.14,
+            "diff_rad": 190.75,
+            "dni": 62.5,
+            "gti": 450.43
           },
           {
             "time_epoch": 1783672200,
@@ -8346,7 +8346,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 35,
-            "cloud": 89,
+            "cloud": 71,
             "feelslike_c": 35.0,
             "feelslike_f": 95.0,
             "windchill_c": 39.9,
@@ -8356,7 +8356,7 @@
             "dewpoint_c": 21.5,
             "dewpoint_f": 70.6,
             "will_it_rain": 0,
-            "chance_of_rain": 19,
+            "chance_of_rain": 17,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.0,
@@ -8365,10 +8365,10 @@
             "gust_kph": 5.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 857.76,
-            "diff_rad": 183.89,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 493.36,
+            "diff_rad": 209.25,
+            "dni": 69.96,
+            "gti": 462.26
           },
           {
             "time_epoch": 1783675800,
@@ -8391,7 +8391,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 37,
-            "cloud": 83,
+            "cloud": 74,
             "feelslike_c": 33.5,
             "feelslike_f": 92.3,
             "windchill_c": 39.0,
@@ -8410,10 +8410,10 @@
             "gust_kph": 9.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 673.86,
-            "diff_rad": 149.84,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 418.98,
+            "diff_rad": 179.07,
+            "dni": 40.93,
+            "gti": 394.42
           },
           {
             "time_epoch": 1783679400,
@@ -8455,10 +8455,10 @@
             "gust_kph": 13.7,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 581.9,
-            "diff_rad": 132.82,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 381.78,
+            "diff_rad": 163.98,
+            "dni": 26.41,
+            "gti": 360.5
           },
           {
             "time_epoch": 1783683000,
@@ -8481,7 +8481,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 42,
-            "cloud": 72,
+            "cloud": 81,
             "feelslike_c": 42.8,
             "feelslike_f": 109.0,
             "windchill_c": 37.3,
@@ -8500,10 +8500,10 @@
             "gust_kph": 18.1,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 489.95,
-            "diff_rad": 115.8,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 344.59,
+            "diff_rad": 148.89,
+            "dni": 11.9,
+            "gti": 326.58
           },
           {
             "time_epoch": 1783686600,
@@ -8526,7 +8526,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 47,
-            "cloud": 78,
+            "cloud": 79,
             "feelslike_c": 41.9,
             "feelslike_f": 107.4,
             "windchill_c": 36.0,
@@ -8545,10 +8545,10 @@
             "gust_kph": 19.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 275.32,
-            "diff_rad": 70.38,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 175.67,
+            "diff_rad": 76.5,
+            "dni": 5.95,
+            "gti": 166.49
           },
           {
             "time_epoch": 1783690200,
@@ -8571,7 +8571,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 52,
-            "cloud": 83,
+            "cloud": 77,
             "feelslike_c": 40.8,
             "feelslike_f": 105.4,
             "windchill_c": 34.7,
@@ -8616,7 +8616,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 57,
-            "cloud": 89,
+            "cloud": 75,
             "feelslike_c": 39.7,
             "feelslike_f": 103.5,
             "windchill_c": 33.5,
@@ -8661,7 +8661,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 60,
-            "cloud": 84,
+            "cloud": 76,
             "feelslike_c": 38.9,
             "feelslike_f": 102.0,
             "windchill_c": 32.7,
@@ -8671,7 +8671,7 @@
             "dewpoint_c": 24.0,
             "dewpoint_f": 75.2,
             "will_it_rain": 0,
-            "chance_of_rain": 40,
+            "chance_of_rain": 38,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.7,
@@ -8706,7 +8706,7 @@
             "precip_in": 0.04,
             "snow_cm": 0.0,
             "humidity": 64,
-            "cloud": 79,
+            "cloud": 77,
             "feelslike_c": 38.3,
             "feelslike_f": 100.9,
             "windchill_c": 32.0,
@@ -8751,7 +8751,7 @@
             "precip_in": 0.06,
             "snow_cm": 0.0,
             "humidity": 67,
-            "cloud": 74,
+            "cloud": 78,
             "feelslike_c": 37.4,
             "feelslike_f": 99.3,
             "windchill_c": 31.2,
@@ -8816,7 +8816,7 @@
           "moonset": "04:09 PM",
           "moon_phase": "Waning Crescent",
           "moon_illumination": 6,
-          "is_moon_up": 0,
+          "is_moon_up": 1,
           "is_sun_up": 0
         },
         "hour": [
@@ -8841,7 +8841,7 @@
             "precip_in": 0.05,
             "snow_cm": 0.0,
             "humidity": 66,
-            "cloud": 79,
+            "cloud": 76,
             "feelslike_c": 36.5,
             "feelslike_f": 97.7,
             "windchill_c": 31.0,
@@ -8886,7 +8886,7 @@
             "precip_in": 0.03,
             "snow_cm": 0.0,
             "humidity": 65,
-            "cloud": 83,
+            "cloud": 73,
             "feelslike_c": 35.4,
             "feelslike_f": 95.7,
             "windchill_c": 30.7,
@@ -8896,7 +8896,7 @@
             "dewpoint_c": 23.4,
             "dewpoint_f": 74.1,
             "will_it_rain": 0,
-            "chance_of_rain": 47,
+            "chance_of_rain": 44,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.0,
@@ -8931,7 +8931,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 64,
-            "cloud": 88,
+            "cloud": 71,
             "feelslike_c": 34.7,
             "feelslike_f": 94.5,
             "windchill_c": 30.5,
@@ -8941,7 +8941,7 @@
             "dewpoint_c": 22.9,
             "dewpoint_f": 73.2,
             "will_it_rain": 0,
-            "chance_of_rain": 37,
+            "chance_of_rain": 36,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.0,
@@ -8976,7 +8976,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 66,
-            "cloud": 78,
+            "cloud": 66,
             "feelslike_c": 34.8,
             "feelslike_f": 94.6,
             "windchill_c": 30.3,
@@ -9021,7 +9021,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 68,
-            "cloud": 67,
+            "cloud": 62,
             "feelslike_c": 34.8,
             "feelslike_f": 94.6,
             "windchill_c": 30.1,
@@ -9031,7 +9031,7 @@
             "dewpoint_c": 23.5,
             "dewpoint_f": 74.3,
             "will_it_rain": 0,
-            "chance_of_rain": 18,
+            "chance_of_rain": 17,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.7,
@@ -9130,10 +9130,10 @@
             "gust_kph": 5.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 82.86,
-            "diff_rad": 41.56,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 42.22,
+            "diff_rad": 24.04,
+            "dni": 0.25,
+            "gti": 40.13
           },
           {
             "time_epoch": 1783733400,
@@ -9175,10 +9175,10 @@
             "gust_kph": 3.6,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 124.3,
-            "diff_rad": 62.33,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 63.34,
+            "diff_rad": 36.07,
+            "dni": 0.38,
+            "gti": 60.2
           },
           {
             "time_epoch": 1783737000,
@@ -9220,10 +9220,10 @@
             "gust_kph": 2.1,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 165.73,
-            "diff_rad": 83.11,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 84.45,
+            "diff_rad": 48.09,
+            "dni": 0.51,
+            "gti": 80.27
           },
           {
             "time_epoch": 1783740600,
@@ -9265,10 +9265,10 @@
             "gust_kph": 6.1,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 294.62,
-            "diff_rad": 115.48,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 214.7,
+            "diff_rad": 89.62,
+            "dni": 6.23,
+            "gti": 203.6
           },
           {
             "time_epoch": 1783744200,
@@ -9310,10 +9310,10 @@
             "gust_kph": 10.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 359.06,
-            "diff_rad": 131.66,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 279.83,
+            "diff_rad": 110.39,
+            "dni": 9.09,
+            "gti": 265.26
           },
           {
             "time_epoch": 1783747800,
@@ -9355,10 +9355,10 @@
             "gust_kph": 14.5,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 423.5,
-            "diff_rad": 147.84,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 344.96,
+            "diff_rad": 131.16,
+            "dni": 11.95,
+            "gti": 326.92
           },
           {
             "time_epoch": 1783751400,
@@ -9381,7 +9381,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 42,
-            "cloud": 60,
+            "cloud": 59,
             "feelslike_c": 41.0,
             "feelslike_f": 105.8,
             "windchill_c": 36.5,
@@ -9400,10 +9400,10 @@
             "gust_kph": 14.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 649.1,
-            "diff_rad": 161.1,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 375.82,
+            "diff_rad": 158.55,
+            "dni": 19.39,
+            "gti": 355.53
           },
           {
             "time_epoch": 1783755000,
@@ -9426,7 +9426,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 40,
-            "cloud": 74,
+            "cloud": 72,
             "feelslike_c": 42.3,
             "feelslike_f": 108.1,
             "windchill_c": 37.4,
@@ -9445,10 +9445,10 @@
             "gust_kph": 13.7,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 761.9,
-            "diff_rad": 167.72,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 391.25,
+            "diff_rad": 172.24,
+            "dni": 23.1,
+            "gti": 369.84
           },
           {
             "time_epoch": 1783758600,
@@ -9471,7 +9471,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 39,
-            "cloud": 88,
+            "cloud": 85,
             "feelslike_c": 32.1,
             "feelslike_f": 89.8,
             "windchill_c": 38.3,
@@ -9481,7 +9481,7 @@
             "dewpoint_c": 21.8,
             "dewpoint_f": 71.2,
             "will_it_rain": 0,
-            "chance_of_rain": 9,
+            "chance_of_rain": 8,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -9490,10 +9490,10 @@
             "gust_kph": 13.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 874.7,
-            "diff_rad": 174.35,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 406.68,
+            "diff_rad": 185.94,
+            "dni": 26.82,
+            "gti": 384.14
           },
           {
             "time_epoch": 1783762200,
@@ -9516,7 +9516,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 39,
-            "cloud": 87,
+            "cloud": 82,
             "feelslike_c": 31.6,
             "feelslike_f": 88.9,
             "windchill_c": 38.2,
@@ -9526,7 +9526,7 @@
             "dewpoint_c": 21.9,
             "dewpoint_f": 71.4,
             "will_it_rain": 0,
-            "chance_of_rain": 8,
+            "chance_of_rain": 7,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -9535,10 +9535,10 @@
             "gust_kph": 15.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 786.45,
-            "diff_rad": 166.88,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 320.4,
+            "diff_rad": 149.53,
+            "dni": 15.39,
+            "gti": 303.21
           },
           {
             "time_epoch": 1783765800,
@@ -9561,7 +9561,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 40,
-            "cloud": 87,
+            "cloud": 80,
             "feelslike_c": 31.1,
             "feelslike_f": 88.0,
             "windchill_c": 38.2,
@@ -9571,7 +9571,7 @@
             "dewpoint_c": 22.1,
             "dewpoint_f": 71.8,
             "will_it_rain": 0,
-            "chance_of_rain": 8,
+            "chance_of_rain": 7,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -9580,10 +9580,10 @@
             "gust_kph": 18.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 742.32,
-            "diff_rad": 163.14,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 277.25,
+            "diff_rad": 131.33,
+            "dni": 9.68,
+            "gti": 262.75
           },
           {
             "time_epoch": 1783769400,
@@ -9606,7 +9606,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 40,
-            "cloud": 86,
+            "cloud": 77,
             "feelslike_c": 43.9,
             "feelslike_f": 111.0,
             "windchill_c": 38.2,
@@ -9616,7 +9616,7 @@
             "dewpoint_c": 22.2,
             "dewpoint_f": 72.0,
             "will_it_rain": 0,
-            "chance_of_rain": 9,
+            "chance_of_rain": 8,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -9625,10 +9625,10 @@
             "gust_kph": 20.7,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 698.19,
-            "diff_rad": 159.41,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 234.11,
+            "diff_rad": 113.13,
+            "dni": 3.96,
+            "gti": 222.29
           },
           {
             "time_epoch": 1783773000,
@@ -9651,7 +9651,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 41,
-            "cloud": 76,
+            "cloud": 70,
             "feelslike_c": 42.8,
             "feelslike_f": 109.0,
             "windchill_c": 37.5,
@@ -9661,7 +9661,7 @@
             "dewpoint_c": 22.1,
             "dewpoint_f": 71.8,
             "will_it_rain": 0,
-            "chance_of_rain": 7,
+            "chance_of_rain": 6,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -9670,10 +9670,10 @@
             "gust_kph": 19.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 377.94,
-            "diff_rad": 93.04,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 122.68,
+            "diff_rad": 59.95,
+            "dni": 1.99,
+            "gti": 116.49
           },
           {
             "time_epoch": 1783776600,
@@ -9696,7 +9696,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 42,
-            "cloud": 66,
+            "cloud": 63,
             "feelslike_c": 41.9,
             "feelslike_f": 107.4,
             "windchill_c": 36.9,
@@ -9921,7 +9921,7 @@
           "avgvis_miles": 6.0,
           "avghumidity": 58,
           "daily_will_it_rain": 0,
-          "daily_chance_of_rain": 59,
+          "daily_chance_of_rain": 60,
           "daily_will_it_snow": 0,
           "daily_chance_of_snow": 0,
           "condition": {
@@ -9941,7 +9941,7 @@
           "moonset": "05:18 PM",
           "moon_phase": "New Moon",
           "moon_illumination": 2,
-          "is_moon_up": 0,
+          "is_moon_up": 1,
           "is_sun_up": 0
         },
         "hour": [
@@ -10101,7 +10101,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 54,
-            "cloud": 40,
+            "cloud": 45,
             "feelslike_c": 38.4,
             "feelslike_f": 101.1,
             "windchill_c": 33.4,
@@ -10146,7 +10146,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 54,
-            "cloud": 56,
+            "cloud": 66,
             "feelslike_c": 38.1,
             "feelslike_f": 100.6,
             "windchill_c": 33.2,
@@ -10156,7 +10156,7 @@
             "dewpoint_c": 22.7,
             "dewpoint_f": 72.9,
             "will_it_rain": 0,
-            "chance_of_rain": 6,
+            "chance_of_rain": 7,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10191,7 +10191,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 55,
-            "cloud": 72,
+            "cloud": 87,
             "feelslike_c": 37.6,
             "feelslike_f": 99.7,
             "windchill_c": 32.9,
@@ -10201,7 +10201,7 @@
             "dewpoint_c": 22.7,
             "dewpoint_f": 72.8,
             "will_it_rain": 0,
-            "chance_of_rain": 9,
+            "chance_of_rain": 11,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10236,7 +10236,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 53,
-            "cloud": 62,
+            "cloud": 72,
             "feelslike_c": 37.8,
             "feelslike_f": 100.0,
             "windchill_c": 33.3,
@@ -10246,7 +10246,7 @@
             "dewpoint_c": 22.4,
             "dewpoint_f": 72.3,
             "will_it_rain": 0,
-            "chance_of_rain": 7,
+            "chance_of_rain": 8,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10255,10 +10255,10 @@
             "gust_kph": 7.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 79.7,
-            "diff_rad": 40.2,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 18.94,
+            "diff_rad": 11.82,
+            "dni": 0.05,
+            "gti": 18.01
           },
           {
             "time_epoch": 1783819800,
@@ -10281,7 +10281,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 51,
-            "cloud": 51,
+            "cloud": 56,
             "feelslike_c": 37.9,
             "feelslike_f": 100.2,
             "windchill_c": 33.6,
@@ -10291,7 +10291,7 @@
             "dewpoint_c": 22.1,
             "dewpoint_f": 71.8,
             "will_it_rain": 0,
-            "chance_of_rain": 5,
+            "chance_of_rain": 6,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10300,10 +10300,10 @@
             "gust_kph": 9.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 119.54,
-            "diff_rad": 60.29,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 28.42,
+            "diff_rad": 17.73,
+            "dni": 0.08,
+            "gti": 27.02
           },
           {
             "time_epoch": 1783823400,
@@ -10345,10 +10345,10 @@
             "gust_kph": 10.5,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 159.39,
-            "diff_rad": 80.39,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 37.89,
+            "diff_rad": 23.64,
+            "dni": 0.1,
+            "gti": 36.03
           },
           {
             "time_epoch": 1783827000,
@@ -10390,10 +10390,10 @@
             "gust_kph": 9.0,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 288.5,
-            "diff_rad": 111.83,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 153.76,
+            "diff_rad": 71.78,
+            "dni": 2.67,
+            "gti": 145.99
           },
           {
             "time_epoch": 1783830600,
@@ -10435,10 +10435,10 @@
             "gust_kph": 7.6,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 353.05,
-            "diff_rad": 127.55,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 211.7,
+            "diff_rad": 95.85,
+            "dni": 3.96,
+            "gti": 200.97
           },
           {
             "time_epoch": 1783834200,
@@ -10480,10 +10480,10 @@
             "gust_kph": 6.3,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 417.6,
-            "diff_rad": 143.27,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 269.63,
+            "diff_rad": 119.92,
+            "dni": 5.25,
+            "gti": 255.95
           },
           {
             "time_epoch": 1783837800,
@@ -10506,7 +10506,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 47,
-            "cloud": 58,
+            "cloud": 60,
             "feelslike_c": 41.0,
             "feelslike_f": 105.8,
             "windchill_c": 35.7,
@@ -10525,10 +10525,10 @@
             "gust_kph": 13.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 483.38,
-            "diff_rad": 188.67,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 368.14,
+            "diff_rad": 178.02,
+            "dni": 29.32,
+            "gti": 347.23
           },
           {
             "time_epoch": 1783841400,
@@ -10551,7 +10551,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 53,
-            "cloud": 69,
+            "cloud": 73,
             "feelslike_c": 40.4,
             "feelslike_f": 104.7,
             "windchill_c": 34.4,
@@ -10570,10 +10570,10 @@
             "gust_kph": 19.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 516.27,
-            "diff_rad": 211.37,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 417.39,
+            "diff_rad": 207.06,
+            "dni": 41.35,
+            "gti": 392.86
           },
           {
             "time_epoch": 1783845000,
@@ -10596,7 +10596,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 59,
-            "cloud": 80,
+            "cloud": 86,
             "feelslike_c": 39.5,
             "feelslike_f": 103.1,
             "windchill_c": 33.1,
@@ -10606,7 +10606,7 @@
             "dewpoint_c": 24.1,
             "dewpoint_f": 75.4,
             "will_it_rain": 0,
-            "chance_of_rain": 17,
+            "chance_of_rain": 18,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10615,10 +10615,10 @@
             "gust_kph": 26.5,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 549.16,
-            "diff_rad": 234.06,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 466.64,
+            "diff_rad": 236.11,
+            "dni": 53.39,
+            "gti": 438.5
           },
           {
             "time_epoch": 1783848600,
@@ -10641,7 +10641,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 62,
-            "cloud": 79,
+            "cloud": 87,
             "feelslike_c": 38.5,
             "feelslike_f": 101.3,
             "windchill_c": 32.3,
@@ -10660,10 +10660,10 @@
             "gust_kph": 27.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 503.89,
-            "diff_rad": 220.12,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 364.08,
+            "diff_rad": 186.35,
+            "dni": 29.16,
+            "gti": 343.38
           },
           {
             "time_epoch": 1783852200,
@@ -10686,7 +10686,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 65,
-            "cloud": 79,
+            "cloud": 87,
             "feelslike_c": 37.4,
             "feelslike_f": 99.3,
             "windchill_c": 31.5,
@@ -10696,7 +10696,7 @@
             "dewpoint_c": 24.1,
             "dewpoint_f": 75.4,
             "will_it_rain": 0,
-            "chance_of_rain": 40,
+            "chance_of_rain": 43,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10705,10 +10705,10 @@
             "gust_kph": 27.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 481.26,
-            "diff_rad": 213.15,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 312.8,
+            "diff_rad": 161.47,
+            "dni": 17.05,
+            "gti": 295.82
           },
           {
             "time_epoch": 1783855800,
@@ -10731,7 +10731,7 @@
             "precip_in": 0.03,
             "snow_cm": 0.0,
             "humidity": 68,
-            "cloud": 78,
+            "cloud": 88,
             "feelslike_c": 36.4,
             "feelslike_f": 97.5,
             "windchill_c": 30.8,
@@ -10741,7 +10741,7 @@
             "dewpoint_c": 24.2,
             "dewpoint_f": 75.5,
             "will_it_rain": 0,
-            "chance_of_rain": 47,
+            "chance_of_rain": 49,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10750,10 +10750,10 @@
             "gust_kph": 27.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 458.62,
-            "diff_rad": 206.18,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 261.52,
+            "diff_rad": 136.59,
+            "dni": 4.94,
+            "gti": 248.26
           },
           {
             "time_epoch": 1783859400,
@@ -10776,7 +10776,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 70,
-            "cloud": 78,
+            "cloud": 82,
             "feelslike_c": 35.6,
             "feelslike_f": 96.1,
             "windchill_c": 30.2,
@@ -10786,7 +10786,7 @@
             "dewpoint_c": 24.2,
             "dewpoint_f": 75.6,
             "will_it_rain": 0,
-            "chance_of_rain": 41,
+            "chance_of_rain": 42,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10795,10 +10795,10 @@
             "gust_kph": 25.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 231.84,
-            "diff_rad": 104.8,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 132.48,
+            "diff_rad": 69.48,
+            "dni": 2.47,
+            "gti": 125.76
           },
           {
             "time_epoch": 1783863000,
@@ -10821,7 +10821,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 72,
-            "cloud": 78,
+            "cloud": 77,
             "feelslike_c": 34.9,
             "feelslike_f": 94.8,
             "windchill_c": 29.7,
@@ -10866,7 +10866,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 75,
-            "cloud": 78,
+            "cloud": 71,
             "feelslike_c": 34.2,
             "feelslike_f": 93.6,
             "windchill_c": 29.2,
@@ -10876,7 +10876,7 @@
             "dewpoint_c": 24.3,
             "dewpoint_f": 75.7,
             "will_it_rain": 0,
-            "chance_of_rain": 17,
+            "chance_of_rain": 16,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10911,7 +10911,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 76,
-            "cloud": 85,
+            "cloud": 80,
             "feelslike_c": 33.9,
             "feelslike_f": 93.0,
             "windchill_c": 29.0,
@@ -10921,7 +10921,7 @@
             "dewpoint_c": 24.4,
             "dewpoint_f": 75.9,
             "will_it_rain": 0,
-            "chance_of_rain": 31,
+            "chance_of_rain": 30,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -10956,7 +10956,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 78,
-            "cloud": 92,
+            "cloud": 90,
             "feelslike_c": 33.5,
             "feelslike_f": 92.3,
             "windchill_c": 28.7,
@@ -10966,7 +10966,7 @@
             "dewpoint_c": 24.4,
             "dewpoint_f": 75.9,
             "will_it_rain": 0,
-            "chance_of_rain": 45,
+            "chance_of_rain": 44,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -11091,7 +11091,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 78,
-            "cloud": 94,
+            "cloud": 92,
             "feelslike_c": 33.1,
             "feelslike_f": 91.6,
             "windchill_c": 28.5,
@@ -11101,7 +11101,7 @@
             "dewpoint_c": 24.4,
             "dewpoint_f": 75.9,
             "will_it_rain": 0,
-            "chance_of_rain": 46,
+            "chance_of_rain": 45,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -11136,7 +11136,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 77,
-            "cloud": 90,
+            "cloud": 85,
             "feelslike_c": 32.9,
             "feelslike_f": 91.2,
             "windchill_c": 28.5,
@@ -11146,7 +11146,7 @@
             "dewpoint_c": 24.2,
             "dewpoint_f": 75.6,
             "will_it_rain": 0,
-            "chance_of_rain": 39,
+            "chance_of_rain": 37,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -11181,7 +11181,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 76,
-            "cloud": 85,
+            "cloud": 78,
             "feelslike_c": 32.9,
             "feelslike_f": 91.2,
             "windchill_c": 28.6,
@@ -11191,7 +11191,7 @@
             "dewpoint_c": 24.0,
             "dewpoint_f": 75.2,
             "will_it_rain": 0,
-            "chance_of_rain": 27,
+            "chance_of_rain": 25,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -11226,7 +11226,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 77,
-            "cloud": 79,
+            "cloud": 74,
             "feelslike_c": 32.6,
             "feelslike_f": 90.7,
             "windchill_c": 28.4,
@@ -11236,7 +11236,7 @@
             "dewpoint_c": 24.0,
             "dewpoint_f": 75.2,
             "will_it_rain": 0,
-            "chance_of_rain": 46,
+            "chance_of_rain": 45,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -11271,7 +11271,7 @@
             "precip_in": 0.04,
             "snow_cm": 0.0,
             "humidity": 78,
-            "cloud": 73,
+            "cloud": 71,
             "feelslike_c": 32.4,
             "feelslike_f": 90.3,
             "windchill_c": 28.3,
@@ -11380,10 +11380,10 @@
             "gust_kph": 16.6,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 46.74,
-            "diff_rad": 23.6,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 96.1,
+            "diff_rad": 35.48,
+            "dni": 1.34,
+            "gti": 91.28
           },
           {
             "time_epoch": 1783906200,
@@ -11425,10 +11425,10 @@
             "gust_kph": 17.3,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 70.1,
-            "diff_rad": 35.41,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 144.16,
+            "diff_rad": 53.21,
+            "dni": 2.0,
+            "gti": 136.92
           },
           {
             "time_epoch": 1783909800,
@@ -11470,10 +11470,10 @@
             "gust_kph": 18.2,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 93.47,
-            "diff_rad": 47.21,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 192.21,
+            "diff_rad": 70.95,
+            "dni": 2.67,
+            "gti": 182.56
           },
           {
             "time_epoch": 1783913400,
@@ -11515,10 +11515,10 @@
             "gust_kph": 20.2,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 193.71,
-            "diff_rad": 90.84,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 321.44,
+            "diff_rad": 93.6,
+            "dni": 23.81,
+            "gti": 303.36
           },
           {
             "time_epoch": 1783917000,
@@ -11560,10 +11560,10 @@
             "gust_kph": 22.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 243.83,
-            "diff_rad": 112.66,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 386.06,
+            "diff_rad": 104.93,
+            "dni": 34.38,
+            "gti": 363.76
           },
           {
             "time_epoch": 1783920600,
@@ -11605,10 +11605,10 @@
             "gust_kph": 23.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 293.95,
-            "diff_rad": 134.48,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 450.67,
+            "diff_rad": 116.26,
+            "dni": 44.95,
+            "gti": 424.16
           },
           {
             "time_epoch": 1783924200,
@@ -11650,10 +11650,10 @@
             "gust_kph": 21.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 254.32,
-            "diff_rad": 130.58,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 435.77,
+            "diff_rad": 155.14,
+            "dni": 38.42,
+            "gti": 410.64
           },
           {
             "time_epoch": 1783927800,
@@ -11695,10 +11695,10 @@
             "gust_kph": 19.8,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 234.5,
-            "diff_rad": 128.64,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 428.31,
+            "diff_rad": 174.58,
+            "dni": 35.15,
+            "gti": 403.88
           },
           {
             "time_epoch": 1783931400,
@@ -11740,10 +11740,10 @@
             "gust_kph": 18.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 214.68,
-            "diff_rad": 126.69,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 420.86,
+            "diff_rad": 194.02,
+            "dni": 31.89,
+            "gti": 397.12
           },
           {
             "time_epoch": 1783935000,
@@ -11785,10 +11785,10 @@
             "gust_kph": 17.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 212.6,
-            "diff_rad": 123.32,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 353.78,
+            "diff_rad": 165.37,
+            "dni": 18.97,
+            "gti": 334.61
           },
           {
             "time_epoch": 1783938600,
@@ -11830,10 +11830,10 @@
             "gust_kph": 16.2,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 211.57,
-            "diff_rad": 121.64,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 320.24,
+            "diff_rad": 151.05,
+            "dni": 12.51,
+            "gti": 303.36
           },
           {
             "time_epoch": 1783942200,
@@ -11875,10 +11875,10 @@
             "gust_kph": 15.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 210.53,
-            "diff_rad": 119.96,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 286.7,
+            "diff_rad": 136.73,
+            "dni": 6.05,
+            "gti": 272.1
           },
           {
             "time_epoch": 1783945800,
@@ -11920,10 +11920,10 @@
             "gust_kph": 14.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 119.88,
-            "diff_rad": 68.29,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 172.23,
+            "diff_rad": 80.27,
+            "dni": 3.14,
+            "gti": 163.51
           },
           {
             "time_epoch": 1783949400,
@@ -12036,7 +12036,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 67,
-            "cloud": 52,
+            "cloud": 47,
             "feelslike_c": 35.3,
             "feelslike_f": 95.5,
             "windchill_c": 30.4,
@@ -12046,7 +12046,7 @@
             "dewpoint_c": 23.7,
             "dewpoint_f": 74.7,
             "will_it_rain": 0,
-            "chance_of_rain": 9,
+            "chance_of_rain": 8,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -12081,7 +12081,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 68,
-            "cloud": 69,
+            "cloud": 58,
             "feelslike_c": 35.1,
             "feelslike_f": 95.2,
             "windchill_c": 30.2,
@@ -12091,7 +12091,7 @@
             "dewpoint_c": 23.7,
             "dewpoint_f": 74.7,
             "will_it_rain": 0,
-            "chance_of_rain": 19,
+            "chance_of_rain": 17,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -12126,7 +12126,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 69,
-            "cloud": 86,
+            "cloud": 70,
             "feelslike_c": 34.9,
             "feelslike_f": 94.8,
             "windchill_c": 30.0,
@@ -12136,7 +12136,7 @@
             "dewpoint_c": 23.8,
             "dewpoint_f": 74.8,
             "will_it_rain": 0,
-            "chance_of_rain": 24,
+            "chance_of_rain": 20,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -12171,7 +12171,7 @@
           "avgvis_miles": 5.0,
           "avghumidity": 55,
           "daily_will_it_rain": 0,
-          "daily_chance_of_rain": 65,
+          "daily_chance_of_rain": 64,
           "daily_will_it_snow": 0,
           "daily_chance_of_snow": 0,
           "condition": {
@@ -12216,7 +12216,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 70,
-            "cloud": 75,
+            "cloud": 65,
             "feelslike_c": 34.7,
             "feelslike_f": 94.5,
             "windchill_c": 29.9,
@@ -12226,7 +12226,7 @@
             "dewpoint_c": 23.7,
             "dewpoint_f": 74.7,
             "will_it_rain": 0,
-            "chance_of_rain": 25,
+            "chance_of_rain": 23,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -12261,7 +12261,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 70,
-            "cloud": 65,
+            "cloud": 59,
             "feelslike_c": 34.4,
             "feelslike_f": 93.9,
             "windchill_c": 29.7,
@@ -12271,7 +12271,7 @@
             "dewpoint_c": 23.7,
             "dewpoint_f": 74.7,
             "will_it_rain": 0,
-            "chance_of_rain": 23,
+            "chance_of_rain": 22,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 10.0,
@@ -12505,10 +12505,10 @@
             "gust_kph": 6.1,
             "uv": 6.0,
             "air_quality": {},
-            "short_rad": 92.38,
-            "diff_rad": 33.14,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 45.03,
+            "diff_rad": 21.56,
+            "dni": 0.29,
+            "gti": 42.81
           },
           {
             "time_epoch": 1783992600,
@@ -12550,10 +12550,10 @@
             "gust_kph": 5.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 138.58,
-            "diff_rad": 49.72,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 67.55,
+            "diff_rad": 32.33,
+            "dni": 0.44,
+            "gti": 64.21
           },
           {
             "time_epoch": 1783996200,
@@ -12595,10 +12595,10 @@
             "gust_kph": 4.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 184.77,
-            "diff_rad": 66.29,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 90.06,
+            "diff_rad": 43.11,
+            "dni": 0.59,
+            "gti": 85.61
           },
           {
             "time_epoch": 1783999800,
@@ -12640,10 +12640,10 @@
             "gust_kph": 4.3,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 315.1,
-            "diff_rad": 90.17,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 45.03,
+            "diff_rad": 21.56,
+            "dni": 0.29,
+            "gti": 42.81
           },
           {
             "time_epoch": 1784003400,
@@ -12685,10 +12685,10 @@
             "gust_kph": 4.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 380.27,
-            "diff_rad": 102.11,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 22.52,
+            "diff_rad": 10.78,
+            "dni": 0.15,
+            "gti": 21.4
           },
           {
             "time_epoch": 1784007000,
@@ -12730,8 +12730,8 @@
             "gust_kph": 3.9,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 445.44,
-            "diff_rad": 114.06,
+            "short_rad": 0.0,
+            "diff_rad": 0.0,
             "dni": 0.0,
             "gti": 0.0
           },
@@ -12775,10 +12775,10 @@
             "gust_kph": 4.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 614.61,
-            "diff_rad": 161.35,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 423.35,
+            "diff_rad": 108.1,
+            "dni": 298.55,
+            "gti": 372.71
           },
           {
             "time_epoch": 1784014200,
@@ -12820,10 +12820,10 @@
             "gust_kph": 4.3,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 699.2,
-            "diff_rad": 184.99,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 635.03,
+            "diff_rad": 162.16,
+            "dni": 447.83,
+            "gti": 559.07
           },
           {
             "time_epoch": 1784017800,
@@ -12865,10 +12865,10 @@
             "gust_kph": 4.3,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 783.78,
-            "diff_rad": 208.64,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 846.7,
+            "diff_rad": 216.21,
+            "dni": 597.11,
+            "gti": 745.43
           },
           {
             "time_epoch": 1784021400,
@@ -12891,7 +12891,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 41,
-            "cloud": 81,
+            "cloud": 80,
             "feelslike_c": 42.8,
             "feelslike_f": 109.0,
             "windchill_c": 37.5,
@@ -12910,10 +12910,10 @@
             "gust_kph": 6.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 620.01,
-            "diff_rad": 175.8,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 745.98,
+            "diff_rad": 191.96,
+            "dni": 413.58,
+            "gti": 668.05
           },
           {
             "time_epoch": 1784025000,
@@ -12936,7 +12936,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 42,
-            "cloud": 84,
+            "cloud": 82,
             "feelslike_c": 42.4,
             "feelslike_f": 108.3,
             "windchill_c": 37.1,
@@ -12955,10 +12955,10 @@
             "gust_kph": 9.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 538.12,
-            "diff_rad": 159.37,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 695.62,
+            "diff_rad": 179.84,
+            "dni": 321.82,
+            "gti": 629.37
           },
           {
             "time_epoch": 1784028600,
@@ -12981,7 +12981,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 44,
-            "cloud": 86,
+            "cloud": 83,
             "feelslike_c": 42.1,
             "feelslike_f": 107.8,
             "windchill_c": 36.7,
@@ -13000,10 +13000,10 @@
             "gust_kph": 11.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 456.24,
-            "diff_rad": 142.95,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 645.26,
+            "diff_rad": 167.72,
+            "dni": 230.05,
+            "gti": 590.68
           },
           {
             "time_epoch": 1784032200,
@@ -13026,7 +13026,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 45,
-            "cloud": 73,
+            "cloud": 71,
             "feelslike_c": 41.8,
             "feelslike_f": 107.2,
             "windchill_c": 36.3,
@@ -13045,10 +13045,10 @@
             "gust_kph": 11.5,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 233.22,
-            "diff_rad": 74.65,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 327.29,
+            "diff_rad": 86.67,
+            "dni": 115.03,
+            "gti": 299.77
           },
           {
             "time_epoch": 1784035800,
@@ -13071,7 +13071,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 47,
-            "cloud": 60,
+            "cloud": 59,
             "feelslike_c": 41.3,
             "feelslike_f": 106.3,
             "windchill_c": 35.8,
@@ -13161,7 +13161,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 50,
-            "cloud": 58,
+            "cloud": 56,
             "feelslike_c": 40.3,
             "feelslike_f": 104.5,
             "windchill_c": 34.8,
@@ -13206,7 +13206,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 52,
-            "cloud": 70,
+            "cloud": 65,
             "feelslike_c": 39.7,
             "feelslike_f": 103.5,
             "windchill_c": 34.2,
@@ -13216,7 +13216,7 @@
             "dewpoint_c": 23.0,
             "dewpoint_f": 73.4,
             "will_it_rain": 0,
-            "chance_of_rain": 18,
+            "chance_of_rain": 17,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 6.7,
@@ -13251,7 +13251,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 54,
-            "cloud": 82,
+            "cloud": 74,
             "feelslike_c": 39.0,
             "feelslike_f": 102.2,
             "windchill_c": 33.6,
@@ -13261,7 +13261,7 @@
             "dewpoint_c": 23.1,
             "dewpoint_f": 73.6,
             "will_it_rain": 0,
-            "chance_of_rain": 26,
+            "chance_of_rain": 24,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 5.0,
@@ -13341,7 +13341,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 54,
-            "cloud": 62,
+            "cloud": 57,
             "feelslike_c": 38.7,
             "feelslike_f": 101.7,
             "windchill_c": 33.5,
@@ -13386,7 +13386,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 54,
-            "cloud": 42,
+            "cloud": 40,
             "feelslike_c": 38.4,
             "feelslike_f": 101.1,
             "windchill_c": 33.4,
@@ -13630,10 +13630,10 @@
             "gust_kph": 18.7,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 91.46,
-            "diff_rad": 36.14,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 47.55,
+            "diff_rad": 19.73,
+            "dni": 0.32,
+            "gti": 45.2
           },
           {
             "time_epoch": 1784079000,
@@ -13675,10 +13675,10 @@
             "gust_kph": 20.2,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 137.2,
-            "diff_rad": 54.2,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 71.33,
+            "diff_rad": 29.59,
+            "dni": 0.49,
+            "gti": 67.8
           },
           {
             "time_epoch": 1784082600,
@@ -13720,10 +13720,10 @@
             "gust_kph": 21.5,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 182.93,
-            "diff_rad": 72.27,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 95.1,
+            "diff_rad": 39.46,
+            "dni": 0.65,
+            "gti": 90.4
           },
           {
             "time_epoch": 1784086200,
@@ -13765,10 +13765,10 @@
             "gust_kph": 20.2,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 292.91,
-            "diff_rad": 100.47,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 212.81,
+            "diff_rad": 84.46,
+            "dni": 5.27,
+            "gti": 201.9
           },
           {
             "time_epoch": 1784089800,
@@ -13810,10 +13810,10 @@
             "gust_kph": 18.4,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 347.9,
-            "diff_rad": 114.57,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 271.66,
+            "diff_rad": 106.97,
+            "dni": 7.58,
+            "gti": 257.64
           },
           {
             "time_epoch": 1784093400,
@@ -13855,10 +13855,10 @@
             "gust_kph": 17.0,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 402.9,
-            "diff_rad": 128.66,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 330.51,
+            "diff_rad": 129.47,
+            "dni": 9.89,
+            "gti": 313.39
           },
           {
             "time_epoch": 1784097000,
@@ -13900,10 +13900,10 @@
             "gust_kph": 15.8,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 520.38,
-            "diff_rad": 161.54,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 383.24,
+            "diff_rad": 183.85,
+            "dni": 23.99,
+            "gti": 362.12
           },
           {
             "time_epoch": 1784100600,
@@ -13945,10 +13945,10 @@
             "gust_kph": 14.8,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 579.12,
-            "diff_rad": 177.98,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 409.6,
+            "diff_rad": 211.04,
+            "dni": 31.04,
+            "gti": 386.49
           },
           {
             "time_epoch": 1784104200,
@@ -13990,10 +13990,10 @@
             "gust_kph": 13.7,
             "uv": 10.0,
             "air_quality": {},
-            "short_rad": 637.86,
-            "diff_rad": 194.42,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 435.96,
+            "diff_rad": 238.22,
+            "dni": 38.09,
+            "gti": 410.86
           },
           {
             "time_epoch": 1784107800,
@@ -14016,7 +14016,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 36,
-            "cloud": 61,
+            "cloud": 56,
             "feelslike_c": 32.4,
             "feelslike_f": 90.3,
             "windchill_c": 38.7,
@@ -14035,10 +14035,10 @@
             "gust_kph": 14.0,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 542.45,
-            "diff_rad": 168.5,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 355.09,
+            "diff_rad": 194.78,
+            "dni": 21.76,
+            "gti": 335.58
           },
           {
             "time_epoch": 1784111400,
@@ -14061,7 +14061,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 40,
-            "cloud": 75,
+            "cloud": 65,
             "feelslike_c": 42.2,
             "feelslike_f": 108.0,
             "windchill_c": 37.4,
@@ -14080,10 +14080,10 @@
             "gust_kph": 14.8,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 494.74,
-            "diff_rad": 155.55,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 314.66,
+            "diff_rad": 173.06,
+            "dni": 13.6,
+            "gti": 297.94
           },
           {
             "time_epoch": 1784115000,
@@ -14106,7 +14106,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 44,
-            "cloud": 89,
+            "cloud": 74,
             "feelslike_c": 41.1,
             "feelslike_f": 106.0,
             "windchill_c": 36.1,
@@ -14116,7 +14116,7 @@
             "dewpoint_c": 22.1,
             "dewpoint_f": 71.8,
             "will_it_rain": 0,
-            "chance_of_rain": 19,
+            "chance_of_rain": 17,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.0,
@@ -14125,10 +14125,10 @@
             "gust_kph": 15.1,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 447.04,
-            "diff_rad": 142.59,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 274.22,
+            "diff_rad": 151.34,
+            "dni": 5.43,
+            "gti": 260.3
           },
           {
             "time_epoch": 1784118600,
@@ -14151,7 +14151,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 46,
-            "cloud": 74,
+            "cloud": 64,
             "feelslike_c": 40.7,
             "feelslike_f": 105.3,
             "windchill_c": 35.7,
@@ -14170,10 +14170,10 @@
             "gust_kph": 16.6,
             "uv": 9.0,
             "air_quality": {},
-            "short_rad": 227.14,
-            "diff_rad": 73.61,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 146.72,
+            "diff_rad": 81.26,
+            "dni": 2.73,
+            "gti": 139.29
           },
           {
             "time_epoch": 1784122200,
@@ -14196,7 +14196,7 @@
             "precip_in": 0.0,
             "snow_cm": 0.0,
             "humidity": 47,
-            "cloud": 59,
+            "cloud": 54,
             "feelslike_c": 40.3,
             "feelslike_f": 104.5,
             "windchill_c": 35.3,
@@ -14286,7 +14286,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 54,
-            "cloud": 54,
+            "cloud": 56,
             "feelslike_c": 39.2,
             "feelslike_f": 102.6,
             "windchill_c": 33.8,
@@ -14331,7 +14331,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 58,
-            "cloud": 63,
+            "cloud": 67,
             "feelslike_c": 38.2,
             "feelslike_f": 100.8,
             "windchill_c": 32.7,
@@ -14376,7 +14376,7 @@
             "precip_in": 0.02,
             "snow_cm": 0.0,
             "humidity": 63,
-            "cloud": 73,
+            "cloud": 79,
             "feelslike_c": 37.1,
             "feelslike_f": 98.8,
             "windchill_c": 31.6,
@@ -14386,7 +14386,7 @@
             "dewpoint_c": 23.7,
             "dewpoint_f": 74.7,
             "will_it_rain": 0,
-            "chance_of_rain": 36,
+            "chance_of_rain": 37,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.0,
@@ -14466,7 +14466,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 63,
-            "cloud": 72,
+            "cloud": 76,
             "feelslike_c": 37.1,
             "feelslike_f": 98.8,
             "windchill_c": 31.6,
@@ -14511,7 +14511,7 @@
             "precip_in": 0.01,
             "snow_cm": 0.0,
             "humidity": 64,
-            "cloud": 71,
+            "cloud": 73,
             "feelslike_c": 37.0,
             "feelslike_f": 98.6,
             "windchill_c": 31.5,
@@ -14521,7 +14521,7 @@
             "dewpoint_c": 23.8,
             "dewpoint_f": 74.8,
             "will_it_rain": 0,
-            "chance_of_rain": 21,
+            "chance_of_rain": 22,
             "will_it_snow": 0,
             "chance_of_snow": 0,
             "vis_km": 9.7,
@@ -14755,10 +14755,10 @@
             "gust_kph": 16.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 31.11,
-            "diff_rad": 17.58,
+            "short_rad": 1.3,
+            "diff_rad": 1.16,
             "dni": 0.0,
-            "gti": 0.0
+            "gti": 1.24
           },
           {
             "time_epoch": 1784165400,
@@ -14800,10 +14800,10 @@
             "gust_kph": 15.1,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 46.67,
-            "diff_rad": 26.37,
+            "short_rad": 1.96,
+            "diff_rad": 1.73,
             "dni": 0.0,
-            "gti": 0.0
+            "gti": 1.86
           },
           {
             "time_epoch": 1784169000,
@@ -14845,10 +14845,10 @@
             "gust_kph": 13.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 62.22,
-            "diff_rad": 35.16,
+            "short_rad": 2.61,
+            "diff_rad": 2.31,
             "dni": 0.0,
-            "gti": 0.0
+            "gti": 2.48
           },
           {
             "time_epoch": 1784172600,
@@ -14890,10 +14890,10 @@
             "gust_kph": 13.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 68.12,
-            "diff_rad": 40.27,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 24.81,
+            "diff_rad": 16.74,
+            "dni": 0.08,
+            "gti": 23.59
           },
           {
             "time_epoch": 1784176200,
@@ -14935,10 +14935,10 @@
             "gust_kph": 12.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 71.07,
-            "diff_rad": 42.82,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 35.91,
+            "diff_rad": 23.95,
+            "dni": 0.12,
+            "gti": 34.15
           },
           {
             "time_epoch": 1784179800,
@@ -14980,10 +14980,10 @@
             "gust_kph": 12.2,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 74.02,
-            "diff_rad": 45.38,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 47.01,
+            "diff_rad": 31.16,
+            "dni": 0.16,
+            "gti": 44.7
           },
           {
             "time_epoch": 1784183400,
@@ -15025,10 +15025,10 @@
             "gust_kph": 12.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 61.3,
-            "diff_rad": 40.41,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 216.1,
+            "diff_rad": 125.36,
+            "dni": 10.28,
+            "gti": 204.53
           },
           {
             "time_epoch": 1784187000,
@@ -15070,10 +15070,10 @@
             "gust_kph": 12.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 54.94,
-            "diff_rad": 37.92,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 300.65,
+            "diff_rad": 172.45,
+            "dni": 15.34,
+            "gti": 284.44
           },
           {
             "time_epoch": 1784190600,
@@ -15115,10 +15115,10 @@
             "gust_kph": 12.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 48.58,
-            "diff_rad": 35.44,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 385.2,
+            "diff_rad": 219.55,
+            "dni": 20.4,
+            "gti": 364.35
           },
           {
             "time_epoch": 1784194200,
@@ -15160,10 +15160,10 @@
             "gust_kph": 10.4,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 62.75,
-            "diff_rad": 42.57,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 343.02,
+            "diff_rad": 195.75,
+            "dni": 13.67,
+            "gti": 324.9
           },
           {
             "time_epoch": 1784197800,
@@ -15205,10 +15205,10 @@
             "gust_kph": 8.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 69.84,
-            "diff_rad": 46.13,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 321.92,
+            "diff_rad": 183.85,
+            "dni": 10.31,
+            "gti": 305.18
           },
           {
             "time_epoch": 1784201400,
@@ -15250,10 +15250,10 @@
             "gust_kph": 5.8,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 76.93,
-            "diff_rad": 49.7,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 300.83,
+            "diff_rad": 171.94,
+            "dni": 6.95,
+            "gti": 285.45
           },
           {
             "time_epoch": 1784205000,
@@ -15295,10 +15295,10 @@
             "gust_kph": 8.3,
             "uv": 8.0,
             "air_quality": {},
-            "short_rad": 49.24,
-            "diff_rad": 31.02,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 166.69,
+            "diff_rad": 94.94,
+            "dni": 3.51,
+            "gti": 158.2
           },
           {
             "time_epoch": 1784208600,
@@ -15880,10 +15880,10 @@
             "gust_kph": 9.7,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 3.9,
-            "diff_rad": 2.98,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 78.91,
+            "diff_rad": 38.56,
+            "dni": 0.9,
+            "gti": 74.97
           },
           {
             "time_epoch": 1784251800,
@@ -15925,10 +15925,10 @@
             "gust_kph": 9.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 5.84,
-            "diff_rad": 4.46,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 118.37,
+            "diff_rad": 57.83,
+            "dni": 1.35,
+            "gti": 112.46
           },
           {
             "time_epoch": 1784255400,
@@ -15970,10 +15970,10 @@
             "gust_kph": 8.7,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 7.79,
-            "diff_rad": 5.95,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 157.82,
+            "diff_rad": 77.11,
+            "dni": 1.8,
+            "gti": 149.94
           },
           {
             "time_epoch": 1784259000,
@@ -16015,10 +16015,10 @@
             "gust_kph": 8.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 13.9,
-            "diff_rad": 10.58,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 231.22,
+            "diff_rad": 113.98,
+            "dni": 4.52,
+            "gti": 219.48
           },
           {
             "time_epoch": 1784262600,
@@ -16060,10 +16060,10 @@
             "gust_kph": 7.9,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 16.96,
-            "diff_rad": 12.89,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 267.91,
+            "diff_rad": 132.41,
+            "dni": 5.88,
+            "gti": 254.24
           },
           {
             "time_epoch": 1784266200,
@@ -16105,10 +16105,10 @@
             "gust_kph": 7.5,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 20.02,
-            "diff_rad": 15.21,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 304.61,
+            "diff_rad": 150.85,
+            "dni": 7.24,
+            "gti": 289.01
           },
           {
             "time_epoch": 1784269800,
@@ -16150,10 +16150,10 @@
             "gust_kph": 8.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 42.94,
-            "diff_rad": 30.65,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 347.4,
+            "diff_rad": 185.94,
+            "dni": 14.5,
+            "gti": 328.99
           },
           {
             "time_epoch": 1784273400,
@@ -16195,10 +16195,10 @@
             "gust_kph": 9.0,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 54.4,
-            "diff_rad": 38.37,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 368.8,
+            "diff_rad": 203.48,
+            "dni": 18.13,
+            "gti": 348.98
           },
           {
             "time_epoch": 1784277000,
@@ -16240,10 +16240,10 @@
             "gust_kph": 9.6,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 65.86,
-            "diff_rad": 46.1,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 390.2,
+            "diff_rad": 221.02,
+            "dni": 21.76,
+            "gti": 368.97
           },
           {
             "time_epoch": 1784280600,
@@ -16285,10 +16285,10 @@
             "gust_kph": 10.4,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 74.99,
-            "diff_rad": 50.53,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 372.46,
+            "diff_rad": 207.2,
+            "dni": 17.69,
+            "gti": 352.51
           },
           {
             "time_epoch": 1784284200,
@@ -16330,10 +16330,10 @@
             "gust_kph": 11.5,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 79.55,
-            "diff_rad": 52.75,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 363.59,
+            "diff_rad": 200.29,
+            "dni": 15.65,
+            "gti": 344.27
           },
           {
             "time_epoch": 1784287800,
@@ -16375,10 +16375,10 @@
             "gust_kph": 12.5,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 84.11,
-            "diff_rad": 54.97,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 354.72,
+            "diff_rad": 193.38,
+            "dni": 13.62,
+            "gti": 336.04
           },
           {
             "time_epoch": 1784291400,
@@ -16420,10 +16420,10 @@
             "gust_kph": 13.3,
             "uv": 7.0,
             "air_quality": {},
-            "short_rad": 53.51,
-            "diff_rad": 33.88,
-            "dni": 0.0,
-            "gti": 0.0
+            "short_rad": 183.86,
+            "diff_rad": 100.48,
+            "dni": 6.82,
+            "gti": 174.2
           },
           {
             "time_epoch": 1784295000,
