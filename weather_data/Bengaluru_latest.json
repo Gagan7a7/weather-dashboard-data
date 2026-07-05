@@ -6,61 +6,61 @@
     "lat": 12.9833,
     "lon": 77.5833,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1783257429,
-    "localtime": "2026-07-05 18:47"
+    "localtime_epoch": 1783267288,
+    "localtime": "2026-07-05 21:31"
   },
   "current": {
-    "last_updated_epoch": 1783256400,
-    "last_updated": "2026-07-05 18:30",
-    "temp_c": 27.3,
-    "temp_f": 81.1,
-    "is_day": 1,
+    "last_updated_epoch": 1783266300,
+    "last_updated": "2026-07-05 21:15",
+    "temp_c": 23.2,
+    "temp_f": 73.8,
+    "is_day": 0,
     "condition": {
       "text": "Partly cloudy",
-      "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
       "code": 1003
     },
-    "wind_mph": 19.7,
-    "wind_kph": 31.7,
-    "wind_degree": 258,
+    "wind_mph": 18.1,
+    "wind_kph": 29.2,
+    "wind_degree": 250,
     "wind_dir": "WSW",
-    "pressure_mb": 1010.0,
-    "pressure_in": 29.83,
+    "pressure_mb": 1012.0,
+    "pressure_in": 29.88,
     "precip_mm": 0.0,
     "precip_in": 0.0,
-    "humidity": 45,
+    "humidity": 61,
     "cloud": 50,
-    "feelslike_c": 27.5,
-    "feelslike_f": 81.6,
-    "windchill_c": 23.5,
-    "windchill_f": 74.4,
-    "heatindex_c": 25.2,
-    "heatindex_f": 77.3,
-    "dewpoint_c": 15.3,
-    "dewpoint_f": 59.5,
-    "vis_km": 10.0,
-    "vis_miles": 6.0,
+    "feelslike_c": 25.0,
+    "feelslike_f": 77.0,
+    "windchill_c": 21.7,
+    "windchill_f": 71.1,
+    "heatindex_c": 24.5,
+    "heatindex_f": 76.1,
+    "dewpoint_c": 15.9,
+    "dewpoint_f": 60.5,
+    "vis_km": 8.0,
+    "vis_miles": 4.0,
     "uv": 0.0,
-    "gust_mph": 26.1,
-    "gust_kph": 42.1,
+    "gust_mph": 25.0,
+    "gust_kph": 40.2,
     "will_it_rain": 0,
-    "chance_of_rain": 4,
+    "chance_of_rain": 8,
     "will_it_snow": 0,
     "chance_of_snow": 0,
     "air_quality": {
-      "co": 229.0,
-      "no2": 5.9,
-      "o3": 55.0,
-      "so2": 2.5,
-      "pm2_5": 8.5,
-      "pm10": 13.7,
+      "co": 223.0,
+      "no2": 7.0,
+      "o3": 45.0,
+      "so2": 3.2,
+      "pm2_5": 6.0,
+      "pm10": 8.7,
       "us-epa-index": 1,
       "gb-defra-index": 1
     },
-    "short_rad": 82.74,
-    "diff_rad": 43.66,
-    "dni": 0.0,
-    "gti": 0.0
+    "short_rad": 0,
+    "diff_rad": 0,
+    "dni": 0,
+    "gti": 0
   },
   "forecast": {
     "forecastday": [
@@ -111,7 +111,7 @@
           "moon_phase": "Last Quarter",
           "moon_illumination": 60,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -1089,27 +1089,27 @@
           {
             "time_epoch": 1783254600,
             "time": "2026-07-05 18:00",
-            "temp_c": 27.3,
-            "temp_f": 81.1,
+            "temp_c": 23.5,
+            "temp_f": 74.4,
             "is_day": 1,
             "condition": {
-              "text": "Partly cloudy",
-              "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
-              "code": 1003
+              "text": "Sunny",
+              "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+              "code": 1000
             },
             "wind_mph": 19.7,
             "wind_kph": 31.7,
             "wind_degree": 258,
             "wind_dir": "WSW",
-            "pressure_mb": 1010.0,
-            "pressure_in": 29.83,
+            "pressure_mb": 1009.0,
+            "pressure_in": 29.79,
             "precip_mm": 0.0,
             "precip_in": 0.0,
             "snow_cm": 0.0,
-            "humidity": 45,
-            "cloud": 50,
-            "feelslike_c": 27.5,
-            "feelslike_f": 81.6,
+            "humidity": 60,
+            "cloud": 20,
+            "feelslike_c": 13.4,
+            "feelslike_f": 56.1,
             "windchill_c": 23.6,
             "windchill_f": 74.4,
             "heatindex_c": 25.2,
@@ -1251,11 +1251,11 @@
           {
             "time_epoch": 1783265400,
             "time": "2026-07-05 21:00",
-            "temp_c": 21.7,
-            "temp_f": 71.1,
+            "temp_c": 23.2,
+            "temp_f": 73.8,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy",
+              "text": "Partly cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -1263,15 +1263,15 @@
             "wind_kph": 29.2,
             "wind_degree": 250,
             "wind_dir": "WSW",
-            "pressure_mb": 1010.0,
-            "pressure_in": 29.82,
+            "pressure_mb": 1012.0,
+            "pressure_in": 29.88,
             "precip_mm": 0.0,
             "precip_in": 0.0,
             "snow_cm": 0.0,
-            "humidity": 69,
-            "cloud": 30,
-            "feelslike_c": 12.1,
-            "feelslike_f": 53.8,
+            "humidity": 61,
+            "cloud": 50,
+            "feelslike_c": 25.0,
+            "feelslike_f": 77.0,
             "windchill_c": 21.7,
             "windchill_f": 71.1,
             "heatindex_c": 24.5,
@@ -1282,8 +1282,8 @@
             "chance_of_rain": 8,
             "will_it_snow": 0,
             "chance_of_snow": 0,
-            "vis_km": 10.0,
-            "vis_miles": 6.0,
+            "vis_km": 8.0,
+            "vis_miles": 4.0,
             "gust_mph": 25.0,
             "gust_kph": 40.2,
             "uv": 0,
@@ -1459,7 +1459,7 @@
           "moon_phase": "Last Quarter",
           "moon_illumination": 49,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -2807,7 +2807,7 @@
           "moon_phase": "Last Quarter",
           "moon_illumination": 39,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -4155,7 +4155,7 @@
           "moon_phase": "Waning Crescent",
           "moon_illumination": 28,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -5503,7 +5503,7 @@
           "moon_phase": "Waning Crescent",
           "moon_illumination": 19,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -6790,7 +6790,7 @@
           "moon_phase": "Waning Crescent",
           "moon_illumination": 12,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -7915,7 +7915,7 @@
           "moon_phase": "Waning Crescent",
           "moon_illumination": 6,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -9040,7 +9040,7 @@
           "moon_phase": "New Moon",
           "moon_illumination": 2,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -10165,7 +10165,7 @@
           "moon_phase": "New Moon",
           "moon_illumination": 0,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -11290,7 +11290,7 @@
           "moon_phase": "New Moon",
           "moon_illumination": 1,
           "is_moon_up": 0,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -12414,8 +12414,8 @@
           "moonset": "07:41 PM",
           "moon_phase": "New Moon",
           "moon_illumination": 3,
-          "is_moon_up": 1,
-          "is_sun_up": 1
+          "is_moon_up": 0,
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -13539,8 +13539,8 @@
           "moonset": "08:33 PM",
           "moon_phase": "Waxing Crescent",
           "moon_illumination": 8,
-          "is_moon_up": 1,
-          "is_sun_up": 1
+          "is_moon_up": 0,
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -14664,8 +14664,8 @@
           "moonset": "09:19 PM",
           "moon_phase": "Waxing Crescent",
           "moon_illumination": 15,
-          "is_moon_up": 1,
-          "is_sun_up": 1
+          "is_moon_up": 0,
+          "is_sun_up": 0
         },
         "hour": [
           {
@@ -15790,7 +15790,7 @@
           "moon_phase": "Waxing Crescent",
           "moon_illumination": 23,
           "is_moon_up": 1,
-          "is_sun_up": 1
+          "is_sun_up": 0
         },
         "hour": [
           {
