@@ -6,61 +6,61 @@
     "lat": 13.0006,
     "lon": 76.0994,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1783461986,
-    "localtime": "2026-07-08 03:36"
+    "localtime_epoch": 1783476213,
+    "localtime": "2026-07-08 07:33"
   },
   "current": {
-    "last_updated_epoch": 1783461600,
-    "last_updated": "2026-07-08 03:30",
-    "temp_c": 20.0,
-    "temp_f": 68.0,
-    "is_day": 0,
+    "last_updated_epoch": 1783475100,
+    "last_updated": "2026-07-08 07:15",
+    "temp_c": 20.4,
+    "temp_f": 68.7,
+    "is_day": 1,
     "condition": {
       "text": "Patchy rain nearby",
-      "icon": "//cdn.weatherapi.com/weather/64x64/night/176.png",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
       "code": 1063
     },
     "wind_mph": 18.6,
     "wind_kph": 29.9,
-    "wind_degree": 254,
+    "wind_degree": 253,
     "wind_dir": "WSW",
-    "pressure_mb": 1010.0,
-    "pressure_in": 29.83,
-    "precip_mm": 0.04,
+    "pressure_mb": 1011.0,
+    "pressure_in": 29.87,
+    "precip_mm": 0.05,
     "precip_in": 0.0,
-    "humidity": 90,
+    "humidity": 88,
     "cloud": 100,
-    "feelslike_c": 10.2,
-    "feelslike_f": 50.4,
-    "windchill_c": 20.0,
-    "windchill_f": 68.0,
-    "heatindex_c": 20.0,
-    "heatindex_f": 68.0,
+    "feelslike_c": 10.6,
+    "feelslike_f": 51.1,
+    "windchill_c": 20.4,
+    "windchill_f": 68.7,
+    "heatindex_c": 20.4,
+    "heatindex_f": 68.7,
     "dewpoint_c": 18.3,
     "dewpoint_f": 64.9,
     "vis_km": 10.0,
     "vis_miles": 6.0,
-    "uv": 0.0,
-    "gust_mph": 26.3,
-    "gust_kph": 42.3,
+    "uv": 0.5,
+    "gust_mph": 25.4,
+    "gust_kph": 40.8,
     "will_it_rain": 0,
     "chance_of_rain": 33,
     "will_it_snow": 0,
     "chance_of_snow": 0,
     "air_quality": {
-      "co": 91.0,
-      "no2": 1.7,
-      "o3": 43.0,
+      "co": 102.0,
+      "no2": 2.4,
+      "o3": 39.0,
       "so2": 1.0,
-      "pm2_5": 1.0,
-      "pm10": 1.7,
+      "pm2_5": 1.2,
+      "pm10": 1.6,
       "us-epa-index": 1,
       "gb-defra-index": 1
     },
-    "short_rad": 0,
-    "diff_rad": 0,
-    "dni": 0,
-    "gti": 0
+    "short_rad": 23.46,
+    "diff_rad": 13.25,
+    "dni": 0.04,
+    "gti": 23.22
   },
   "forecast": {
     "forecastday": [
@@ -111,7 +111,7 @@
           "moon_phase": "Waning Crescent",
           "moon_illumination": 28,
           "is_moon_up": 1,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -1459,7 +1459,7 @@
           "moon_phase": "Waning Crescent",
           "moon_illumination": 19,
           "is_moon_up": 1,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -2807,7 +2807,7 @@
           "moon_phase": "Waning Crescent",
           "moon_illumination": 12,
           "is_moon_up": 1,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -4155,7 +4155,7 @@
           "moon_phase": "Waning Crescent",
           "moon_illumination": 6,
           "is_moon_up": 1,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -5442,7 +5442,7 @@
           "moon_phase": "New Moon",
           "moon_illumination": 2,
           "is_moon_up": 1,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -6566,8 +6566,8 @@
           "moonset": "05:48 PM",
           "moon_phase": "New Moon",
           "moon_illumination": 0,
-          "is_moon_up": 0,
-          "is_sun_up": 0
+          "is_moon_up": 1,
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -7691,8 +7691,8 @@
           "moonset": "06:50 PM",
           "moon_phase": "New Moon",
           "moon_illumination": 1,
-          "is_moon_up": 0,
-          "is_sun_up": 0
+          "is_moon_up": 1,
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -8816,8 +8816,8 @@
           "moonset": "07:48 PM",
           "moon_phase": "New Moon",
           "moon_illumination": 3,
-          "is_moon_up": 0,
-          "is_sun_up": 0
+          "is_moon_up": 1,
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -9942,7 +9942,7 @@
           "moon_phase": "Waxing Crescent",
           "moon_illumination": 8,
           "is_moon_up": 0,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -11067,7 +11067,7 @@
           "moon_phase": "Waxing Crescent",
           "moon_illumination": 15,
           "is_moon_up": 0,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -12192,7 +12192,7 @@
           "moon_phase": "Waxing Crescent",
           "moon_illumination": 23,
           "is_moon_up": 0,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -13317,7 +13317,7 @@
           "moon_phase": "First Quarter",
           "moon_illumination": 33,
           "is_moon_up": 0,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -14442,7 +14442,7 @@
           "moon_phase": "First Quarter",
           "moon_illumination": 43,
           "is_moon_up": 0,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
@@ -15567,7 +15567,7 @@
           "moon_phase": "First Quarter",
           "moon_illumination": 53,
           "is_moon_up": 0,
-          "is_sun_up": 0
+          "is_sun_up": 1
         },
         "hour": [
           {
