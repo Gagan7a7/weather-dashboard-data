@@ -6,56 +6,56 @@
     "lat": 12.9833,
     "lon": 77.5833,
     "tz_id": "Asia/Kolkata",
-    "localtime_epoch": 1784400779,
-    "localtime": "2026-07-19 00:22"
+    "localtime_epoch": 1784410975,
+    "localtime": "2026-07-19 03:12"
   },
   "current": {
-    "last_updated_epoch": 1784400300,
-    "last_updated": "2026-07-19 00:15",
-    "temp_c": 22.1,
-    "temp_f": 71.8,
+    "last_updated_epoch": 1784410200,
+    "last_updated": "2026-07-19 03:00",
+    "temp_c": 22.2,
+    "temp_f": 72.0,
     "is_day": 0,
     "condition": {
       "text": "Partly cloudy",
       "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
       "code": 1003
     },
-    "wind_mph": 11.6,
-    "wind_kph": 18.7,
-    "wind_degree": 261,
-    "wind_dir": "W",
-    "pressure_mb": 1015.0,
-    "pressure_in": 29.97,
+    "wind_mph": 10.5,
+    "wind_kph": 16.9,
+    "wind_degree": 257,
+    "wind_dir": "WSW",
+    "pressure_mb": 1014.0,
+    "pressure_in": 29.94,
     "precip_mm": 0.0,
     "precip_in": 0.0,
     "humidity": 88,
     "cloud": 50,
     "feelslike_c": 24.6,
-    "feelslike_f": 76.2,
-    "windchill_c": 20.8,
-    "windchill_f": 69.3,
-    "heatindex_c": 20.8,
-    "heatindex_f": 69.3,
+    "feelslike_f": 76.3,
+    "windchill_c": 20.3,
+    "windchill_f": 68.5,
+    "heatindex_c": 20.3,
+    "heatindex_f": 68.5,
     "dewpoint_c": 17.1,
-    "dewpoint_f": 62.7,
+    "dewpoint_f": 62.8,
     "vis_km": 6.0,
     "vis_miles": 3.0,
     "uv": 0.0,
-    "gust_mph": 16.1,
-    "gust_kph": 26.0,
+    "gust_mph": 14.9,
+    "gust_kph": 24.0,
     "will_it_rain": 0,
-    "chance_of_rain": 12,
+    "chance_of_rain": 13,
     "will_it_snow": 0,
     "chance_of_snow": 0,
-    "wetbulb_c": 0.0,
-    "wetbulb_f": 32.0,
+    "wetbulb_c": 18.2,
+    "wetbulb_f": 64.7,
     "air_quality": {
-      "co": 215.0,
-      "no2": 9.9,
-      "o3": 34.0,
-      "so2": 3.5,
-      "pm2_5": 6.2,
-      "pm10": 8.6,
+      "co": 153.0,
+      "no2": 7.2,
+      "o3": 35.0,
+      "so2": 3.2,
+      "pm2_5": 5.1,
+      "pm10": 7.6,
       "us-epa-index": 1,
       "gb-defra-index": 1
     },
@@ -94,10 +94,10 @@
             "code": 1003
           },
           "uv": 7.7,
-          "avgwetbulb_c": 19.0,
-          "avgwetbulb_f": 66.2,
-          "maxwetbulb_c": 19.9,
-          "maxwetbulb_f": 67.9,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "co": 288.125,
             "no2": 8.620833333333335,
@@ -179,11 +179,11 @@
           {
             "time_epoch": 1784403000,
             "time": "2026-07-19 01:00",
-            "temp_c": 22.1,
-            "temp_f": 71.8,
+            "temp_c": 20.7,
+            "temp_f": 69.3,
             "is_day": 0,
             "condition": {
-              "text": "Partly cloudy",
+              "text": "Partly Cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -191,15 +191,15 @@
             "wind_kph": 18.7,
             "wind_degree": 261,
             "wind_dir": "W",
-            "pressure_mb": 1015.0,
-            "pressure_in": 29.97,
+            "pressure_mb": 1011.0,
+            "pressure_in": 29.85,
             "precip_mm": 0.0,
             "precip_in": 0.0,
             "snow_cm": 0.0,
-            "humidity": 88,
-            "cloud": 50,
-            "feelslike_c": 24.6,
-            "feelslike_f": 76.2,
+            "humidity": 79,
+            "cloud": 35,
+            "feelslike_c": 13.1,
+            "feelslike_f": 55.6,
             "windchill_c": 20.8,
             "windchill_f": 69.4,
             "heatindex_c": 20.8,
@@ -210,13 +210,13 @@
             "chance_of_rain": 12,
             "will_it_snow": 0,
             "chance_of_snow": 0,
-            "vis_km": 6.0,
-            "vis_miles": 3.0,
+            "vis_km": 10.0,
+            "vis_miles": 6.0,
             "gust_mph": 16.1,
             "gust_kph": 26.0,
             "uv": 0,
-            "wetbulb_c": 0.0,
-            "wetbulb_f": 32.0,
+            "wetbulb_c": 18.3,
+            "wetbulb_f": 65.0,
             "air_quality": {
               "co": 215.0,
               "no2": 9.9,
@@ -291,11 +291,11 @@
           {
             "time_epoch": 1784410200,
             "time": "2026-07-19 03:00",
-            "temp_c": 20.3,
-            "temp_f": 68.5,
+            "temp_c": 22.2,
+            "temp_f": 72.0,
             "is_day": 0,
             "condition": {
-              "text": "Partly Cloudy",
+              "text": "Partly cloudy",
               "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
               "code": 1003
             },
@@ -303,15 +303,15 @@
             "wind_kph": 16.9,
             "wind_degree": 257,
             "wind_dir": "WSW",
-            "pressure_mb": 1010.0,
-            "pressure_in": 29.83,
+            "pressure_mb": 1014.0,
+            "pressure_in": 29.94,
             "precip_mm": 0.0,
             "precip_in": 0.0,
             "snow_cm": 0.0,
-            "humidity": 82,
-            "cloud": 34,
-            "feelslike_c": 13.0,
-            "feelslike_f": 55.4,
+            "humidity": 88,
+            "cloud": 50,
+            "feelslike_c": 24.6,
+            "feelslike_f": 76.3,
             "windchill_c": 20.3,
             "windchill_f": 68.5,
             "heatindex_c": 20.3,
@@ -322,8 +322,8 @@
             "chance_of_rain": 13,
             "will_it_snow": 0,
             "chance_of_snow": 0,
-            "vis_km": 10.0,
-            "vis_miles": 6.0,
+            "vis_km": 6.0,
+            "vis_miles": 3.0,
             "gust_mph": 14.9,
             "gust_kph": 24.0,
             "uv": 0,
@@ -1494,10 +1494,10 @@
             "code": 1003
           },
           "uv": 11.2,
-          "avgwetbulb_c": 18.8,
-          "avgwetbulb_f": 65.9,
-          "maxwetbulb_c": 20.0,
-          "maxwetbulb_f": 68.0,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "co": 317.0,
             "no2": 9.954166666666667,
@@ -2894,10 +2894,10 @@
             "code": 1000
           },
           "uv": 11.3,
-          "avgwetbulb_c": 19.0,
-          "avgwetbulb_f": 66.3,
-          "maxwetbulb_c": 20.0,
-          "maxwetbulb_f": 68.0,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "co": 306.5416666666667,
             "no2": 10.616666666666665,
@@ -4294,10 +4294,10 @@
             "code": 1000
           },
           "uv": 10.9,
-          "avgwetbulb_c": 18.9,
-          "avgwetbulb_f": 65.9,
-          "maxwetbulb_c": 19.4,
-          "maxwetbulb_f": 66.9,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "co": 189.33333333333334,
             "no2": 7.944444444444445,
@@ -5640,10 +5640,10 @@
             "code": 1000
           },
           "uv": 8.0,
-          "avgwetbulb_c": 18.5,
-          "avgwetbulb_f": 65.3,
-          "maxwetbulb_c": 19.2,
-          "maxwetbulb_f": 66.6,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
@@ -5655,7 +5655,7 @@
           "moonset": "12:48 AM",
           "moon_phase": "Waxing Gibbous",
           "moon_illumination": 74,
-          "is_moon_up": 1,
+          "is_moon_up": 0,
           "is_sun_up": 0
         },
         "hour": [
@@ -6817,10 +6817,10 @@
             "code": 1000
           },
           "uv": 8.0,
-          "avgwetbulb_c": 18.3,
-          "avgwetbulb_f": 65.0,
-          "maxwetbulb_c": 18.7,
-          "maxwetbulb_f": 65.6,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
@@ -6832,7 +6832,7 @@
           "moonset": "01:35 AM",
           "moon_phase": "Waxing Gibbous",
           "moon_illumination": 82,
-          "is_moon_up": 1,
+          "is_moon_up": 0,
           "is_sun_up": 0
         },
         "hour": [
@@ -7994,10 +7994,10 @@
             "code": 1000
           },
           "uv": 7.0,
-          "avgwetbulb_c": 19.0,
-          "avgwetbulb_f": 66.1,
-          "maxwetbulb_c": 20.2,
-          "maxwetbulb_f": 68.4,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
@@ -8009,7 +8009,7 @@
           "moonset": "02:24 AM",
           "moon_phase": "Waxing Gibbous",
           "moon_illumination": 90,
-          "is_moon_up": 1,
+          "is_moon_up": 0,
           "is_sun_up": 0
         },
         "hour": [
@@ -9171,10 +9171,10 @@
             "code": 1000
           },
           "uv": 7.0,
-          "avgwetbulb_c": 19.1,
-          "avgwetbulb_f": 66.4,
-          "maxwetbulb_c": 20.0,
-          "maxwetbulb_f": 68.0,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
@@ -10348,10 +10348,10 @@
             "code": 1003
           },
           "uv": 7.0,
-          "avgwetbulb_c": 19.5,
-          "avgwetbulb_f": 67.1,
-          "maxwetbulb_c": 20.5,
-          "maxwetbulb_f": 68.9,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
@@ -11525,10 +11525,10 @@
             "code": 1003
           },
           "uv": 8.0,
-          "avgwetbulb_c": 19.4,
-          "avgwetbulb_f": 67.0,
-          "maxwetbulb_c": 20.4,
-          "maxwetbulb_f": 68.6,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
@@ -12702,10 +12702,10 @@
             "code": 1000
           },
           "uv": 8.0,
-          "avgwetbulb_c": 19.2,
-          "avgwetbulb_f": 66.6,
-          "maxwetbulb_c": 20.5,
-          "maxwetbulb_f": 68.8,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
@@ -13879,10 +13879,10 @@
             "code": 1000
           },
           "uv": 8.0,
-          "avgwetbulb_c": 19.0,
-          "avgwetbulb_f": 66.2,
-          "maxwetbulb_c": 20.3,
-          "maxwetbulb_f": 68.5,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
@@ -15056,10 +15056,10 @@
             "code": 1000
           },
           "uv": 7.0,
-          "avgwetbulb_c": 19.0,
-          "avgwetbulb_f": 66.2,
-          "maxwetbulb_c": 19.9,
-          "maxwetbulb_f": 67.7,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
@@ -16233,10 +16233,10 @@
             "code": 1003
           },
           "uv": 7.0,
-          "avgwetbulb_c": 19.1,
-          "avgwetbulb_f": 66.4,
-          "maxwetbulb_c": 19.9,
-          "maxwetbulb_f": 67.9,
+          "avgwetbulb_c": 0.0,
+          "avgwetbulb_f": 32.0,
+          "maxwetbulb_c": 0.0,
+          "maxwetbulb_f": 32.0,
           "air_quality": {
             "aqi_data": "null"
           }
